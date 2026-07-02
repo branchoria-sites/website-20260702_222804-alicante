@@ -1,0 +1,1119 @@
+---
+level: 1
+basename: Huesca_59c1aa
+child_basenames:
+- Huesca_59c1aa_1971_air_force_file_646562
+- Huesca_59c1aa_barbastro_tardienta_43ced7
+- Huesca_59c1aa_index
+- Huesca_59c1aa_mountain_lights_expl_dfd50f
+- Huesca_59c1aa_pusilibro_1977_d27242
+sibling_basenames:
+- A_Coruna_c18697
+- Alava_ef490e
+- Albacete_3f7c9a
+- Alicante_46e2a1
+- Almeria_5a5611
+- Asturias_60aedd
+- Avila_9a1863
+- Badajoz_632079
+- Balearic_Islands_d9fdd5
+- Barcelona_122a41
+- Biscay_fc6f6b
+- Burgos_199e01
+- Caceres_23e6f5
+- Cadiz_bf7148
+- Cantabria_c90a8d
+- Castellon_b6b2a8
+- Ceuta_6791a7
+- Ciudad_Real_1bcbd0
+- Cordoba_c65d18
+- Cuenca_18bceb
+- Gipuzkoa_c8b477
+- Girona_1912ef
+- Granada_3f7db9
+- Guadalajara_2d19b1
+- Huelva_bc0cde
+- Jaen_6daea8
+- La_Rioja_a6a1e6
+- Las_Palmas_c2c576
+- Leon_8b001a
+- Lleida_a3bb84
+- Lugo_3c0a46
+- Madrid_7a2191
+- Malaga_7b094a
+- Melilla_c01d8f
+- Murcia_fed56b
+- Navarre_d04319
+- Ourense_35c272
+- Palencia_b6f02b
+- Pontevedra_0aef83
+- Salamanca_973fa7
+- Santa_Cruz_de_Teneri_4ff430
+- Segovia_11f113
+- Seville_41f368
+- Soria_198769
+- Tarragona_3ac142
+- Teruel_fc2989
+- Toledo_1e860c
+- Valencia_6459e8
+- Valladolid_d2ebea
+- Zamora_6f7871
+- Zaragoza_2782d8
+tags:
+- huesca
+keywords:
+- huesca
+affiliate_category: huesca
+show_ads: true
+description: Huesca’s UFO history is not a long catalogue of strong, unresolved cases.
+hero_summary: Huesca’s UFO history is not a long catalogue of strong, unresolved cases.
+layout: default
+permalink: /what-really-happened-in-huescas-ufo/
+nav_short_title: What Really Happened in Huesca's UFO Stories?
+title: What Really Happened in Huesca's UFO Stories?
+title_full: What Really Happened in Huesca's UFO Stories?
+display_title_short: What Really Happened in Huesca's UFO Stories?
+display_title: What Really Happened in Huesca's UFO Stories?
+heading_title: What Really Happened in Huesca's UFO Stories?
+page_heading_title: What Really Happened in Huesca's UFO Stories?
+source_count: 65
+infographic_count: 3
+page_website_name: Huesca UFOs
+page_banner_line: Balanced evidence-led pages on Huesca's sightings, files, doubts, and local UFO lore.
+site_website_name: Huesca UFOs
+site_banner_line: Balanced evidence-led pages on Huesca's sightings, files, doubts, and local UFO lore.
+site_image_description: A quiet night view of the Huesca mountains with a small luminous point above a dark ridge and a village below.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-30 20:06:48'
+sibling_links:
+- basename: Balearic_Islands_d9fdd5
+  title: Balearic UFOs
+  permalink: /balearic-islands/
+  short_title: Balearic UFOs
+- basename: Segovia_11f113
+  title: Segovia UFOs
+  permalink: /did-segovia-ever-have-a-ufo-case/
+  short_title: Segovia UFOs
+- basename: Santa_Cruz_de_Teneri_4ff430
+  title: Tenerife UFOs
+  permalink: /santa-cruz-de-tenerife/
+  short_title: Tenerife UFOs
+- basename: Palencia_b6f02b
+  title: Palencia UFOs
+  permalink: /what-did-palencia-really-see-in-1968/
+  short_title: Palencia UFOs
+- basename: Seville_41f368
+  title: Seville UFOs
+  permalink: /what-did-sevilles-ufo-files-really-show/
+  short_title: Seville UFOs
+- basename: A_Coruna_c18697
+  title: A Coruna UFOs
+  permalink: /what-really-happened-in-a-corunas-ufo/
+  short_title: A Coruna UFOs
+- basename: Almeria_5a5611
+  title: Almeria UFOs
+  permalink: /what-really-happened-in-almerias-ufo/
+  short_title: Almeria UFOs
+- basename: Avila_9a1863
+  title: Avila UFOs
+  permalink: /what-really-happened-in-avilas-ufo/
+  short_title: Avila UFOs
+- basename: Barcelona_122a41
+  title: Barcelona UFOs
+  permalink: /what-really-happened-in-barcelonas-ufo/
+  short_title: Barcelona UFOs
+- basename: Burgos_199e01
+  title: Burgos UFOs
+  permalink: /what-really-happened-in-burgoss-ufo/
+  short_title: Burgos UFOs
+- basename: Caceres_23e6f5
+  title: Caceres UFOs
+  permalink: /what-really-happened-in-caceres-skies/
+  short_title: Caceres UFOs
+- basename: Cadiz_bf7148
+  title: Cadiz UFOs
+  permalink: /what-really-happened-in-cadizs-ufo/
+  short_title: Cadiz UFOs
+- basename: Cantabria_c90a8d
+  title: Cantabria UFOs
+  permalink: /what-really-happened-in-cantabrias-ufo/
+  short_title: Cantabria UFOs
+- basename: Ciudad_Real_1bcbd0
+  title: Ciudad Real UFOs
+  permalink: /what-really-happened-in-ciudad-reals-ufo/
+  short_title: Ciudad Real UFOs
+- basename: Cuenca_18bceb
+  title: Cuenca UFOs
+  permalink: /what-really-happened-in-cuencas-ufo/
+  short_title: Cuenca UFOs
+- basename: Gipuzkoa_c8b477
+  title: Gipuzkoa UFOs
+  permalink: /what-really-happened-in-gipuzkoas-ufo/
+  short_title: Gipuzkoa UFOs
+- basename: Girona_1912ef
+  title: Girona UFOs
+  permalink: /what-really-happened-in-gironas-ufo/
+  short_title: Girona UFOs
+- basename: Granada_3f7db9
+  title: Granada UFOs
+  permalink: /what-really-happened-in-granadas-ufo/
+  short_title: Granada UFOs
+- basename: Guadalajara_2d19b1
+  title: Guadalajara UFOs
+  permalink: /what-really-happened-in-guadalajaras-ufo/
+  short_title: Guadalajara UFOs
+- basename: Jaen_6daea8
+  title: Jaen UFOs
+  permalink: /what-really-happened-in-jaens-ufo/
+  short_title: Jaen UFOs
+- basename: La_Rioja_a6a1e6
+  title: Rioja UFOs
+  permalink: /what-really-happened-in-la-riojas-ufo/
+  short_title: Rioja UFOs
+- basename: Leon_8b001a
+  title: Leon UFOs
+  permalink: /what-really-happened-in-leons-ufo/
+  short_title: Leon UFOs
+- basename: Lleida_a3bb84
+  title: Lleida UFOs
+  permalink: /what-really-happened-in-lleidas-ufo/
+  short_title: Lleida UFOs
+- basename: Lugo_3c0a46
+  title: Lugo UFOs
+  permalink: /what-really-happened-in-lugos-ufo-record/
+  short_title: Lugo UFOs
+- basename: Malaga_7b094a
+  title: Malaga UFOs
+  permalink: /what-really-happened-in-malagas-ufo/
+  short_title: Malaga UFOs
+- basename: Melilla_c01d8f
+  title: Melilla UFOs
+  permalink: /what-really-happened-in-melillas-ufo/
+  short_title: Melilla UFOs
+- basename: Ourense_35c272
+  title: Ourense UFOs
+  permalink: /what-really-happened-in-ourenses-ufo/
+  short_title: Ourense UFOs
+- basename: Pontevedra_0aef83
+  title: Pontevedra UFOs
+  permalink: /what-really-happened-in-pontevedras-ufo/
+  short_title: Pontevedra UFOs
+- basename: Salamanca_973fa7
+  title: Salamanca UFOs
+  permalink: /what-really-happened-in-salamancas-ufo/
+  short_title: Salamanca UFOs
+- basename: Soria_198769
+  title: Soria UFOs
+  permalink: /what-really-happened-in-sorias-ufo/
+  short_title: Soria UFOs
+- basename: Teruel_fc2989
+  title: Teruel UFOs
+  permalink: /what-really-happened-in-teruels-ufo/
+  short_title: Teruel UFOs
+- basename: Toledo_1e860c
+  title: Toledo UFOs
+  permalink: /what-really-happened-in-toledos-ufo/
+  short_title: Toledo UFOs
+- basename: Zamora_6f7871
+  title: Zamora UFOs
+  permalink: /what-really-happened-in-zamoras-ufo/
+  short_title: Zamora UFOs
+- basename: Zaragoza_2782d8
+  title: Zaragoza UFOs
+  permalink: /what-really-happened-in-zaragozas-ufo/
+  short_title: Zaragoza UFOs
+- basename: Asturias_60aedd
+  title: Asturias UFOs
+  permalink: /what-really-happened-over-asturias/
+  short_title: Asturias UFOs
+- basename: Castellon_b6b2a8
+  title: Castellon UFOs
+  permalink: /what-really-happened-over-castellon/
+  short_title: Castellon UFOs
+- basename: Cordoba_c65d18
+  title: Cordoba UFOs
+  permalink: /what-really-happened-over-cordoba/
+  short_title: Cordoba UFOs
+- basename: Las_Palmas_c2c576
+  title: Las Palmas UFOs
+  permalink: /what-really-happened-over-las-palmas/
+  short_title: Las Palmas UFOs
+- basename: Madrid_7a2191
+  title: Madrid UFOs
+  permalink: /what-really-happened-over-madrid/
+  short_title: Madrid UFOs
+- basename: Murcia_fed56b
+  title: Murcia UFOs
+  permalink: /what-really-happened-over-murcias-skies/
+  short_title: Murcia UFOs
+- basename: Navarre_d04319
+  title: Navarre UFOs
+  permalink: /what-really-happened-over-navarres-skies/
+  short_title: Navarre UFOs
+- basename: Tarragona_3ac142
+  title: Tarragona UFOs
+  permalink: /what-really-happened-over-tarragonas/
+  short_title: Tarragona UFOs
+- basename: Valladolid_d2ebea
+  title: Valladolid UFOs
+  permalink: /what-really-happened-over-valladolid/
+  short_title: Valladolid UFOs
+- basename: Alava_ef490e
+  title: Alava UFOs
+  permalink: /why-alavas-ufo-legends-outgrew-their/
+  short_title: Alava UFOs
+- basename: Alicante_46e2a1
+  title: Alicante UFOs
+  permalink: /why-alicante-became-a-ufo-file-hotspot/
+  short_title: Alicante UFOs
+- basename: Badajoz_632079
+  title: Badajoz UFOs
+  permalink: /why-badajoz-became-a-ufo-case-province/
+  short_title: Badajoz UFOs
+- basename: Ceuta_6791a7
+  title: Ceuta UFOs
+  permalink: /why-do-ufo-stories-cluster-around-ceuta/
+  short_title: Ceuta UFOs
+- basename: Albacete_3f7c9a
+  title: Albacete UFOs
+  permalink: /why-does-albacete-matter-in-spanish-ufo/
+  short_title: Albacete UFOs
+- basename: Biscay_fc6f6b
+  title: Biscay UFOs
+  permalink: /why-gallarta-still-defines-biscay-ufos/
+  short_title: Biscay UFOs
+- basename: Huelva_bc0cde
+  title: Huelva UFOs
+  permalink: /why-huelvas-ufo-stories-still-linger/
+  short_title: Huelva UFOs
+- basename: Valencia_6459e8
+  title: Valencia UFOs
+  permalink: /why-valencia-became-spains-aviation-ufo/
+  short_title: Valencia UFOs
+child_links:
+- basename: Huesca_59c1aa_1971_air_force_file_646562
+  title: 1971 File | What Really Happened in Huesca's UFO...
+  permalink: /1971-file/
+  short_title: 1971 File
+  heading_title: Was Huesca's Official UFO Case Really Solved?
+- basename: Huesca_59c1aa_mountain_lights_expl_dfd50f
+  title: Explanations | What Really Happened in Huesca's UFO...
+  permalink: /explanations-70888f/
+  short_title: Explanations
+  heading_title: Why Do Strange Lights Convince Huesca Witnesses?
+- basename: Huesca_59c1aa_barbastro_tardienta_43ced7
+  title: Local Reports | What Really Happened in Huesca's UFO...
+  permalink: /local-reports/
+  short_title: Local Reports
+  heading_title: What Do Huesca's Smaller UFO Reports Add?
+- basename: Huesca_59c1aa_pusilibro_1977_d27242
+  title: Pusilibro | What Really Happened in Huesca's UFO...
+  permalink: /pusilibro/
+  short_title: Pusilibro
+  heading_title: Why Did Pusilibro Become Huesca's UFO Legend?
+prev_link:
+  basename: Guadalajara_2d19b1
+  title: Guadalajara UFOs
+  permalink: /what-really-happened-in-guadalajaras-ufo/
+  short_title: Guadalajara UFOs
+next_link:
+  basename: Jaen_6daea8
+  title: Jaen UFOs
+  permalink: /what-really-happened-in-jaens-ufo/
+  short_title: Jaen UFOs
+header:
+  og_image: /assets/images/Huesca_59c1aa-overview-social.jpg
+  preview_image: /assets/images/Huesca_59c1aa-overview.webp
+image: /assets/images/Huesca_59c1aa-overview-social.jpg
+---
+
+## Why Huesca’s UFO record is smaller than its reputation
+
+For readers coming to Huesca through Spanish UFO lore, the first surprise is that the official paper trail is thin. The Ministry of Defence’s online UFO collection describes 80 declassified files, about 1,900 pages, covering unusual aerial phenomena in Spanish airspace from 1962 to 1995, where Air Force personnel or resources were involved in some way. Within that catalogue, Huesca appears in a single province-linked entry: the 1971 multi-location sighting file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual de Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-title">Biblioteca Virtual de Defensa Expedientes OVNI</span><span class="citation-popover-snippet">Biblioteca Virtual de Defensa Expedientes OVNI</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Huesca_59c1aa-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Huesca&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
+
+That does not mean people in Huesca only reported strange lights once. Local media and later UFO writing preserve other stories, especially around Pusilibro, Barbastro and Tardienta. But there is an important distinction between a sighting that entered an official aviation or military investigation and a sighting that survived mainly through newspapers, witness recollection, local folklore or later retellings. Huesca’s serious UFO history sits in that gap: the province is rich in memorable stories, but comparatively poor in hard, independently checkable case files.
+
+This makes Huesca a useful province for understanding the limits of UFO evidence. The best-documented case is now plausibly explained. The most famous case is culturally significant but disputed. The more recent reports are interesting as local testimony, but at present do not have the evidential weight of radar records, full official investigation files or independent technical analysis.
+
+## The 1971 official file: a real event, but probably not a UFO mystery
+
+The strongest official connection between Huesca and Spain’s UFO files is expediente 710223, dated 23 February 1971. The Ministry of Defence catalogue describes it as an Air Operational Command and Intelligence Section file on unusual phenomena seen in Barcelona, Huesca, Lérida and the Cantabrian Sea. It runs to 71 pages and was declassified under an Air Staff order dated 6 October 1993.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=38121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual de Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-snippet">Open source on gob.es.</span></span></span>
+
+The case was not a single local sighting by one person. It was a broad evening event observed across northern and north-eastern Spain. Reports included airline crews, military witnesses, a fisherman in the Cantabrian Sea, a monk at Montserrat, a Civil Guard witness and soldiers from a military training centre. Heraldo de Aragón’s summary of the declassified file notes that 44 declarations from CIR number 10 described a luminous point, a wide fan-shaped trail, and a descent that seemed to vanish before reaching the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2016/10/23/defensa-publica-informes-sobre-ovnis-vistos-aragon-1124384-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+The Huesca detail is especially interesting because the file records a notification from an air-defence radar source that an object had passed north of Huesca. But the case’s value lies less in that isolated radar mention than in the pattern: witnesses over a very wide area described broadly similar features at roughly similar times. The Air Force file concluded that the phenomenon was real in the ordinary sense that people had seen something, and that its altitude must have been well above normal aircraft operations because of the large region from which it was visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-es-expediente-barcelona-huesca-lerida-1971-1971-02-23-avistamiento-en-barcelona-huesca-lerida-mar-cantabrico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+
+The later explanation weakens the UFO reading. A 1993 intelligence review associated the event with the re-entry of a French Tibère rocket launched from the Biscarrosse test centre in Landes, as part of ONERA’s Electre programme. The same review said French sketches from the Société d’Astronomie Populaire de Toulouse matched the Spanish witness drawings. Heraldo’s account also records the file’s earlier possibilities: a meteorite, a satellite re-entry or rocket-stage re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-es-expediente-barcelona-huesca-lerida-1971-1971-02-23-avistamiento-en-barcelona-huesca-lerida-mar-cantabrico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+
+For Huesca, the 1971 case is therefore best classified as officially investigated and most likely explained. It remains important because it shows how a spectacular aerial event can be genuinely witnessed by many people, enter military channels, involve pilots and radar references, and still turn out to be consistent with aerospace activity rather than an unknown craft.
+
+
+
+<img src="{{ "/assets/images/Huesca_59c1aa-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Huesca&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Huesca_59c1aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huesca_59c1aa-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Pusilibro 1977: the case that put Huesca on the UFO map
+
+If the [1971 file]({{ '1971-file/' | relative_url }}) is Huesca’s strongest official case, Pusilibro is its best-known popular one. Pusilibro is a peak in Sierra Caballera near Loarre, and in 1977 it became the centre of a local UFO excitement that reached far beyond the province. Heraldo de Aragón, revisiting the affair 40 years later, described how strange lights over the summit drew night-time crowds, journalists, UFO enthusiasts and international media interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+The episode began as reports of curious lights in the summer and early autumn of 1977. According to the later Heraldo account, journalist Luis García Núñez investigated after a call to the newspaper warned of a large reddish craft near the ridge leading up to Pusilibro. The story intensified when the Huesca newspaper Nueva España, now Diario del Altoaragón, published a sequence of night photographs on 10 November 1977. The images were said to show a small white light approaching a larger reddish light before merging into a brighter white object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+That publication changed the scale of the story. For weeks, people reportedly went up towards Pusilibro at night with cameras, blankets and food, waiting for the phenomenon to appear. Heraldo’s retrospective captures the social side well: hundreds of people, local curiosity, commercial opportunism, visiting UFO writers and a mood that is hard to separate from the wider 1970s UFO boom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+The case also produced an early split between believers and sceptics. García Núñez recalled that Juan José Benítez obtained the negatives and had them analysed, later communicating that the photographs were genuine and not manipulated. That finding, however, only addresses whether something was photographed; it does not prove that the photographed object was extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+A sceptical review by Juan Carlos Victorio, based on a check of Nueva España’s coverage from August to December 1977, argues that the press campaign began in September, that the sightings became a form of collective excitement, and that many reports were sparse or imprecise. He also points to practical doubts about the famous photographs, including whether a photographer could have noticed the object, moved the equipment, framed, focused and taken several shots during a claimed observation lasting only a few seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misteriosdelaire.blogspot.com/2014/03/el-ovni-de-pusilibro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misteriosdelaire.blogspot.com">[Misterios del Aire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misteriosdelaire.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+
+The proposed mundane [explanations]({{ 'explanations-70888f/' | relative_url }}) are also plausible. The reported recurring light was described in broad terms as a star-like or elongated reddish-orange light appearing low in the east or south-east between roughly one and two in the morning. Victorio suggests that some sightings may have involved bright astronomical objects visible low on the horizon, including Jupiter, Mars or Aldebaran, depending on date and time. That does not explain every witness impression, but it does show why the case should not be treated as a confirmed unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misteriosdelaire.blogspot.com/2014/03/el-ovni-de-pusilibro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misteriosdelaire.blogspot.com">[Misterios del Aire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misteriosdelaire.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span>
+
+Pusilibro’s most defensible status is therefore disputed and culturally significant. It is not a cleanly solved case in the way the 1971 file appears to be, but neither is it a robust unresolved aviation case. Its importance is that it became Huesca’s landmark UFO story: a mix of lights, photographs, local press energy, charismatic investigators, mountain scenery and public expectation.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WR4OG8dHlyo" title="Declassified UFO Files Revealed | Full Documentary | Alien Agenda: Into the Future" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WR4OG8dHlyo" target="_blank" rel="noopener noreferrer">Declassified UFO Files Revealed | Full Documentary | Alien Agenda: Into the Future</a></p><p class="youtube-embed-meta">Channel: THE STREAM - Movies and More</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WR4OG8dHlyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WR4OG8dHlyo">Open on YouTube</a></p></div></div></div>
+
+## Barbastro, Loarre and the later local cluster stories
+
+The 1995 Barbastro reports are much thinner than Pusilibro but show how the Huesca UFO theme continued to surface in local memory. Diario del Altoaragón’s 2025 roundup of strange provincial phenomena says that in April 1995 several unusual events occurred around Barbastro, with neighbours reporting strange luminous objects in an area known as La Jarea. The same item says power cuts affected several localities in the district around the same time, without a convincing explanation being given in that account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diariodelaltoaragon.es/noticias/comarcas/2025/10/31/alto-aragon-paranormal-sabes-que-7-fenomenos-paranormales-han-sucedido-en-la-provincia-de-huesca-1686845-daa.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diariodelaltoaragon.es">[Diario del Alto Aragón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diariodelaltoaragon.es</span><span class="citation-popover-snippet">Open source on diariodelaltoaragon.es.</span></span></span>
+
+This should be handled carefully. The Barbastro material, as publicly available in the cited local article, is a brief retrospective summary, not a full case file. It does not provide enough detail to judge object size, duration, direction, weather, astronomical conditions, aircraft traffic, electrical-fault records or whether the reported lights and power cuts were causally connected. The story is relevant to Huesca’s UFO history because it shows a local cluster claim; it is not strong evidence for a single extraordinary event.
+
+Loarre appears in two ways. First, it is geographically tied to the Pusilibro story because the mountain lies in the Sierra de Loarre/Caballera setting. Secondly, local paranormal writing often groups Loarre with other Huesca mysteries. For UFO history, the first connection matters; the broader castle legends and ghost stories do not materially strengthen any aerial-phenomena case and should not be confused with UFO evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+## Tardienta and the modern problem of lights, drones and video
+
+Tardienta adds a contemporary layer to the province’s UFO story. In March 2025, El Diario de Huesca reported that unusual lights had recently been filmed from the aerodrome at Tardienta, after earlier local observations of what were thought to be large drones seen from the Harinera de Tardienta. The article says a complaint was made to Spain’s aviation safety agency, AESA, but that AESA declined to open an investigation because the number of witnesses had not grown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eldiariodehuesca.com/actualidad/luces-extranas-en-tardienta-jj-benitez-ya-escribio-en-1910-bola-grande-roja-se-deposito-sobre-testigos_29871_102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eldiariodehuesca.com">[El Diario de Huesca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eldiariodehuesca.com</span><span class="citation-popover-snippet">Open source on eldiariodehuesca.com.</span></span></span>
+
+This is exactly the kind of modern report that needs caution. Video can preserve a light pattern, but it can also remove scale, distance, sound, direction and context. Without flight data, drone records, camera metadata, wind conditions and independent witnesses, “unusual movement” remains a description rather than a conclusion. The Tardienta story is useful because it shows how older UFO language now overlaps with drones, cameras and social media circulation.
+
+The same article links the modern Tardienta lights to an older story repeated by Juan José Benítez about an alleged 1910 incident involving a large red silent object near Tardienta. That older anecdote is part of Huesca’s UFO folklore, but it is not comparable to an official investigation or a contemporary multi-source case. It is a reported memory transmitted through later UFO literature, and its evidential status is weak unless supporting contemporary records can be found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eldiariodehuesca.com/actualidad/luces-extranas-en-tardienta-jj-benitez-ya-escribio-en-1910-bola-grande-roja-se-deposito-sobre-testigos_29871_102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eldiariodehuesca.com">[El Diario de Huesca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eldiariodehuesca.com</span><span class="citation-popover-snippet">Open source on eldiariodehuesca.com.</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Huesca_59c1aa-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Huesca&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Huesca_59c1aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huesca_59c1aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## What the main doubts tell us
+
+The recurring doubts in Huesca’s UFO cases are not minor technicalities. They shape the whole assessment.
+
+**Distance and scale are often unknown.** A light over a mountain, a fan-shaped trail in the evening sky or a point filmed from an aerodrome can look dramatic while remaining hard to locate in three-dimensional space. The 1971 case became more understandable precisely because its wide visibility pointed to a high-altitude aerospace event, not a low local craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-es-expediente-barcelona-huesca-lerida-1971-1971-02-23-avistamiento-en-barcelona-huesca-lerida-mar-cantabrico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">Open source on ufotransparency.com.</span></span></span>
+
+**Photographs are not self-explanatory.** The Pusilibro negatives may have shown real photographed lights, but that is not the same as proving a large structured object. The sceptical argument focuses on timing, camera handling, exposure and astronomical possibilities, all of which are relevant before treating the images as extraordinary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+**Media attention can amplify weak signals.** Pusilibro became famous because the local press, visiting investigators and crowds turned scattered reports into a public event. This does not mean every witness was wrong or dishonest. It means the social environment made the case more memorable and may also have made later reports more vulnerable to expectation, rumour and imitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldo.es">[heraldo.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldo.es</span><span class="citation-popover-snippet">Open source on heraldo.es.</span></span></span>
+
+**Later retellings can blur evidence levels.** The 1971 file, the 1977 Pusilibro photographs, the 1995 Barbastro lights and the 2025 Tardienta videos are sometimes discussed as if they belong to one continuous mystery. They do not have the same documentation or credibility. A balanced Huesca UFO history has to keep those categories separate.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ty0a-H6OekQ" title="Avistamiento de un OVNI &quot;TIC TAC&quot; en Huesca con Oscar Dotras Moreno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ty0a-H6OekQ" target="_blank" rel="noopener noreferrer">Avistamiento de un OVNI &quot;TIC TAC&quot; en Huesca con Oscar Dotras Moreno</a></p><p class="youtube-embed-meta">Channel: RESISTENCIA#1-bloque82</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ty0a-H6OekQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ty0a-H6OekQ">Open on YouTube</a></p></div></div></div>
+
+## How to classify Huesca’s main cases
+
+A clear reader-facing classification is more useful than forcing every sighting into either “true” or “false”.
+
+Case or clusterBest current classificationWhy it matters23 February 1971 Barcelona-Huesca-Lérida-Cantabrian Sea fileMost likely explainedOfficially investigated, multi-witness, later linked to a French Tibère rocket re-entry under the Electre programme.Pusilibro 1977Disputed, culturally importantHuesca’s landmark UFO story, driven by lights, photographs, press coverage and public pilgrimages, but weakened by photographic and astronomical doubts.Barbastro / La Jarea 1995Weakly documented local clusterInteresting local testimony, but currently too thin for firm conclusions.Tardienta modern lightsUnresolved in public reporting, low evidential weightContemporary light/video claims overlap with drone possibilities and lack a full public technical investigation.Tardienta 1910 anecdoteFolkloric or literary UFO claimInteresting as a later-reported story, but not strong as evidence without contemporary documentation.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ulYpBaZEfs" title="Avistamientos OVNI reales en Monte Perdido (Huesca - España) ✅" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ulYpBaZEfs" target="_blank" rel="noopener noreferrer">Avistamientos OVNI reales en Monte Perdido (Huesca - España) ✅</a></p><p class="youtube-embed-meta">Channel: Diego Cintas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ulYpBaZEfs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ulYpBaZEfs">Open on YouTube</a></p></div></div></div>
+
+## What Huesca contributes to Spanish UFO history
+
+Huesca’s contribution is not a single spectacular proof case. It is a compact lesson in how UFO history works at provincial level. The official record shows that a dramatic, widely witnessed event can become less mysterious when placed against aerospace activity. The Pusilibro story shows how a mountain, a newspaper, photographs and public expectation can create a lasting local legend. Barbastro and Tardienta show how the same interpretive pattern keeps returning whenever unexplained lights appear in a place that already has UFO memory.
+
+That makes Huesca valuable precisely because the evidence is uneven. It contains one strong official file that points away from the extraterrestrial interpretation, one famous but disputed media-era case, and several weaker local claims that are worth recording but not overstating. The province’s UFO history is therefore best read as a study in perception, documentation and local culture rather than as a catalogue of confirmed unknown craft.
+
+
+
+<img src="{{ "/assets/images/Huesca_59c1aa-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Huesca&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Huesca_59c1aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Huesca_59c1aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Huesca&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+<p class="fr-book-desc">Useful overview of sighting categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
+        
+<p class="fr-book-desc">Additional UFO reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
+        
+<p class="fr-book-desc">Matches the page&#x27;s focus on official cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
+        
+<p class="fr-book-desc">Supports critical evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="what-really-happened-in-huescas-ufo-what-really-happened-in-huesca-s-ufo-stories-huesca-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: heraldo.es  
+   Link:<a href="https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldo.es/noticias/aragon/2017/11/19/ovnis-pirineo-anos-despues-del-incidente-pusilibro-1208936-300.html</a>  
+
+2.<a id="endnote-2"></a>
+   Source: heraldo.es  
+   Link:<a href="https://www.heraldo.es/noticias/aragon/2016/10/23/defensa-publica-informes-sobre-ovnis-vistos-aragon-1124384-300.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldo.es/noticias/aragon/2016/10/23/defensa-publica-informes-sobre-ovnis-vistos-aragon-1124384-300.html</a>  
+
+3.<a id="endnote-3"></a>
+   Source: heraldo.es  
+   Title: defensa publica los expedientes ovni desclasificados 1123727 305  
+   Link:<a href="https://www.heraldo.es/noticias/nacional/2016/10/23/defensa-publica-los-expedientes-ovni-desclasificados-1123727-305.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldo.es/noticias/nacional/2016/10/23/defensa-publica-los-expedientes-ovni-desclasificados-1123727-305.html</a>  
+
+4.<a id="endnote-4"></a>
+   Source: bibliotecavirtual.defensa.gob.es  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=38121" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=38121</a>  
+
+5.<a id="endnote-5"></a>
+   Source: bibliotecavirtual.defensa.gob.es  
+   Title: Biblioteca Virtual de Defensa Expedientes OVNI  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do</a>  
+
+6.<a id="endnote-6"></a>
+   Source: bibliotecavirtual.defensa.gob.es  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/en/consulta/indice_campo.do?campo=idtitulo" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/en/consulta/indice_campo.do?campo=idtitulo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>› Title list...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: ufotransparency.com  
+   Link:<a href="https://ufotransparency.com/files/intl-es-expediente-barcelona-huesca-lerida-1971-1971-02-23-avistamiento-en-barcelona-huesca-lerida-mar-cantabrico" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-es-expediente-barcelona-huesca-lerida-1971-1971-02-23-avistamiento-en-barcelona-huesca-lerida-mar-cantabrico</a>  
+
+8.<a id="endnote-8"></a>
+   Source: misteriosdelaire.blogspot.com  
+   Link:<a href="https://misteriosdelaire.blogspot.com/2014/03/el-ovni-de-pusilibro.html" target="_blank" rel="noopener noreferrer nofollow">https://misteriosdelaire.blogspot.com/2014/03/el-ovni-de-pusilibro.html</a>  
+
+9.<a id="endnote-9"></a>
+   Source: diariodelaltoaragon.es  
+   Link:<a href="https://www.diariodelaltoaragon.es/noticias/comarcas/2025/10/31/alto-aragon-paranormal-sabes-que-7-fenomenos-paranormales-han-sucedido-en-la-provincia-de-huesca-1686845-daa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.diariodelaltoaragon.es/noticias/comarcas/2025/10/31/alto-aragon-paranormal-sabes-que-7-fenomenos-paranormales-han-sucedido-en-la-provincia-de-huesca-1686845-daa.html</a>  
+
+10.<a id="endnote-10"></a>
+   Source: eldiariodehuesca.com  
+   Link:<a href="https://www.eldiariodehuesca.com/actualidad/luces-extranas-en-tardienta-jj-benitez-ya-escribio-en-1910-bola-grande-roja-se-deposito-sobre-testigos_29871_102.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eldiariodehuesca.com/actualidad/luces-extranas-en-tardienta-jj-benitez-ya-escribio-en-1910-bola-grande-roja-se-deposito-sobre-testigos_29871_102.html</a>  
+
+11.<a id="endnote-11"></a>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/Tib%C3%A8re" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tib%C3%A8re</a>  
+
+12.<a id="endnote-12"></a>
+   Source: bibliotecavirtual.defensa.gob.es  
+   Title: defensa.gob.es Listado de títulos  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo</a>  
+
+13.<a id="endnote-13"></a>
+   Source: bibliotecavirtual.defensa.gob.es  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?control=BMDA20200205616" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?control=BMDA20200205616</a>  
+
+14.<a id="endnote-14"></a>
+   Source: bibliotecavirtual.defensa.gob.es  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idlugar" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idlugar</a>  
+
+15.<a id="endnote-15"></a>
+   Source: publicaciones.defensa.gob.es  
+   Title: aeroplano 25  
+   Link:<a href="https://publicaciones.defensa.gob.es/media/downloadable/files/links/a/e/aeroplano_25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publicaciones.defensa.gob.es/media/downloadable/files/links/a/e/aeroplano_25.pdf</a>  
+
+16.<a id="endnote-16"></a>
+   Source: publicaciones.defensa.gob.es  
+   Link:<a href="https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/a/raa_800_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/a/raa_800_2011.pdf</a>  
+
+17.<a id="endnote-17"></a>
+   Source: inexplicata.blogspot.com  
+   Link:<a href="https://inexplicata.blogspot.com/2017/11/" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2017/11/</a>  
+
+18.<a id="endnote-18"></a>
+   Source: eldiariodehuesca.com  
+   Title: avistamiento puchilibro 23517 102  
+   Link:<a href="https://www.eldiariodehuesca.com/opinion/como-punos/avistamiento-puchilibro_23517_102.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eldiariodehuesca.com/opinion/como-punos/avistamiento-puchilibro_23517_102.html</a>  
+
+19.<a id="endnote-19"></a>
+   Source: orbitaceromendoza.blogspot.com  
+   Title: finalizaremos el 2017 compartiendo el  
+   Link:<a href="https://orbitaceromendoza.blogspot.com/2017/12/finalizaremos-el-2017-compartiendo-el.html" target="_blank" rel="noopener noreferrer nofollow">https://orbitaceromendoza.blogspot.com/2017/12/finalizaremos-el-2017-compartiendo-el.html</a>  
+
+### Additional References
+
+20.<a id="endnote-20"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=WR4OG8dHlyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WR4OG8dHlyo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>72 UFO reports declassified with no evidence of extraterrestrial life...</p></details>
+
+21.<a id="endnote-21"></a>
+   Source: youtube.com  
+   Title: 72 UFO reports declassified with no evidence of extraterrestrial life  
+   Link:<a href="https://www.youtube.com/watch?v=mEEpDnvLfyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mEEpDnvLfyw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED UFO FILES: Why does science ignore them and governments don&#x27;t?...</p></details>
+
+22.<a id="endnote-22"></a>
+   Source: youtube.com  
+   Title: Javier Sierra: The secret report on UFOs in Franco's Spain  
+   Link:<a href="https://www.youtube.com/watch?v=_lSEWzNb2rc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_lSEWzNb2rc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO Files Revealed | Full Documentary | Alien Agenda: Into the Future...</p></details>
+
+23.<a id="endnote-23"></a>
+   Source: youtube.com  
+   Title: Caravaca Files: That light doesn't exist  
+   Link:<a href="https://www.youtube.com/watch?v=wfSjMxQqLME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wfSjMxQqLME</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Javier Sierra: The secret report on UFOs in Franco&#x27;s Spain...</p></details>
+
+24.<a id="endnote-24"></a>
+   Source: academia.edu  
+   Link:<a href="https://www.academia.edu/37524948/Estudio_distribucion_geografica_fenomenos_EC_en_Espana_By_Mercedes_Pullman_pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/37524948/Estudio_distribucion_geografica_fenomenos_EC_en_Espana_By_Mercedes_Pullman_pdf</a>  
+
+25.<a id="endnote-25"></a>
+   Source: academia.edu  
+   Link:<a href="https://www.academia.edu/35429868/Los_expedientes_OVNI_desclasificados_Online" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35429868/Los_expedientes_OVNI_desclasificados_Online</a>  
+
+26.<a id="endnote-26"></a>
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/reel/DZe9-WdMHk5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZe9-WdMHk5/</a>  
+
+27.<a id="endnote-27"></a>
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/reel/DR4SVtDAdE6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR4SVtDAdE6/</a>  
+
+28.<a id="endnote-28"></a>
+   Source: scribd.com  
+   Link:<a href="https://www.scribd.com/document/168518253/Desclasificacion-Ufo-Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/168518253/Desclasificacion-Ufo-Spain</a>  
+
+29.<a id="endnote-29"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/migueltorrucog/posts/durante-d%C3%A9cadas-hablar-de-ovnis-era-motivo-de-burla-hoy-aparecen-en-documentos-d/1516912669800882/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/migueltorrucog/posts/durante-d%C3%A9cadas-hablar-de-ovnis-era-motivo-de-burla-hoy-aparecen-en-documentos-d/1516912669800882/</a>  

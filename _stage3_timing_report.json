@@ -1,0 +1,4940 @@
+{
+  "version": 1,
+  "page_count": 260,
+  "total_page_seconds": 415.7637,
+  "average_page_seconds": 1.5991,
+  "phase_totals_seconds": {
+    "youtube": 190.0951,
+    "content_assembly": 106.7916,
+    "monetization": 55.8632,
+    "media_svg": 33.6882,
+    "preparation": 12.1577,
+    "quality_write": 9.0804,
+    "content_cleanup_final": 4.9712,
+    "internal_links": 3.0201,
+    "content_cleanup_initial": 0.0947
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Alicante_46e2a1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 64.7348,
+      "phases": {
+        "preparation": 0.0572,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0158,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.2242,
+        "youtube": 62.1163,
+        "content_assembly": 0.5203,
+        "monetization": 1.7324,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "Alicante_46e2a1_benidorm_1986_6ae331",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 61.5826,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0136,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.1628,
+        "youtube": 59.3853,
+        "content_assembly": 0.4101,
+        "monetization": 1.5051,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Alicante_46e2a1_official_files_c31821",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 59.9866,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0145,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.1375,
+        "youtube": 57.4794,
+        "content_assembly": 0.3999,
+        "monetization": 1.8508,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Cantabria_c90a8d_sighting_clusters_358af4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7848,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0072,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.1452,
+        "youtube": 7.0748,
+        "content_assembly": 0.3909,
+        "monetization": 0.063,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Santa_Cruz_de_Teneri_4ff430_tenerife_local_cases_d66794",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.7559,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0022,
+        "content_cleanup_final": 0.0127,
+        "media_svg": 0.0966,
+        "youtube": 0.0094,
+        "content_assembly": 0.369,
+        "monetization": 6.1898,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Teruel_fc2989_castellote_road_sigh_457ebd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0308,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0031,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.1159,
+        "youtube": 0.0126,
+        "content_assembly": 0.3924,
+        "monetization": 4.4109,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83_vigo_pilot_sighting_d745a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8911,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0058,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.127,
+        "youtube": 0.0126,
+        "content_assembly": 0.3678,
+        "monetization": 4.2825,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83_vigo_coast_cluster_5971ed",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9099,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.1073,
+        "youtube": 0.0078,
+        "content_assembly": 0.3816,
+        "monetization": 3.2988,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Valladolid_d2ebea_villanubla_1984_airb_7f91af",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5057,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0061,
+        "content_cleanup_final": 0.029,
+        "media_svg": 0.1079,
+        "youtube": 0.0127,
+        "content_assembly": 0.4122,
+        "monetization": 2.8573,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871_granja_humanoid_clai_7c82d4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.781,
+      "phases": {
+        "preparation": 0.0,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0043,
+        "content_cleanup_final": 0.0124,
+        "media_svg": 0.2752,
+        "youtube": 0.0101,
+        "content_assembly": 0.3778,
+        "monetization": 2.0693,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871_alcanices_landing_st_7d9c46",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7477,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.017,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.1578,
+        "youtube": 0.0127,
+        "content_assembly": 0.3899,
+        "monetization": 2.1122,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Alava_ef490e_vitoria_airport_ligh_e6ab4b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0245,
+      "phases": {
+        "preparation": 0.0471,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0089,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.1095,
+        "youtube": 0.0077,
+        "content_assembly": 0.3914,
+        "monetization": 1.3945,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Valladolid_d2ebea_villalon_official_fi_5ba176",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9041,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0131,
+        "content_cleanup_final": 0.0139,
+        "media_svg": 0.1136,
+        "youtube": 0.0117,
+        "content_assembly": 0.3746,
+        "monetization": 1.3007,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Ourense_35c272_antela_strange_skies_03c12a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8991,
+      "phases": {
+        "preparation": 0.0478,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0047,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.1056,
+        "youtube": 0.0112,
+        "content_assembly": 0.3862,
+        "monetization": 1.2827,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Santa_Cruz_de_Teneri_4ff430_poseidon_missile_the_56fa75",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8439,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0056,
+        "content_cleanup_final": 0.016,
+        "media_svg": 0.1019,
+        "youtube": 0.012,
+        "content_assembly": 0.3801,
+        "monetization": 1.2514,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Valencia_6459e8_manises_incident_228ffb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8239,
+      "phases": {
+        "preparation": 0.0462,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0165,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.1049,
+        "youtube": 0.0082,
+        "content_assembly": 0.3679,
+        "monetization": 1.2371,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Murcia_fed56b_san_javier_1962_a2ca9e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8039,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0025,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.1067,
+        "youtube": 1.1811,
+        "content_assembly": 0.3682,
+        "monetization": 0.0534,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83_defence_file_gap_34ed7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.698,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.1497,
+        "youtube": 0.0101,
+        "content_assembly": 0.3673,
+        "monetization": 1.0615,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871_zamora_triangle_sigh_a82c85",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6965,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0056,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.1607,
+        "youtube": 0.0154,
+        "content_assembly": 0.399,
+        "monetization": 1.0629,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Segovia_11f113_castilla_y_leon_cont_5904ce",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2497,
+      "phases": {
+        "preparation": 0.0469,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0041,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.1455,
+        "youtube": 0.0088,
+        "content_assembly": 0.3756,
+        "monetization": 0.6168,
+        "quality_write": 0.0314
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Alicante_46e2a1_benidorm_1986_6ae331",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 61.5826,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0136,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.1628,
+        "youtube": 59.3853,
+        "content_assembly": 0.4101,
+        "monetization": 1.5051,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Alicante_46e2a1_official_files_c31821",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 59.9866,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0145,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.1375,
+        "youtube": 57.4794,
+        "content_assembly": 0.3999,
+        "monetization": 1.8508,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Alicante_46e2a1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 64.7348,
+      "phases": {
+        "preparation": 0.0572,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0158,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.2242,
+        "youtube": 62.1163,
+        "content_assembly": 0.5203,
+        "monetization": 1.7324,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "Alicante_46e2a1_witness_claims_6306a3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7445,
+      "phases": {
+        "preparation": 0.044,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0054,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.1381,
+        "youtube": 0.0095,
+        "content_assembly": 0.411,
+        "monetization": 0.0634,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7372,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0049,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.1482,
+        "youtube": 0.0131,
+        "content_assembly": 0.3964,
+        "monetization": 0.0705,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Albacete_3f7c9a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8844,
+      "phases": {
+        "preparation": 0.0801,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0167,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.1336,
+        "youtube": 0.0123,
+        "content_assembly": 0.5127,
+        "monetization": 0.0668,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Albacete_3f7c9a_media_legacy_c308ed",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7272,
+      "phases": {
+        "preparation": 0.0677,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.016,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.1096,
+        "youtube": 0.0154,
+        "content_assembly": 0.3832,
+        "monetization": 0.0834,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7016,
+      "phases": {
+        "preparation": 0.0688,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.1256,
+        "youtube": 0.0113,
+        "content_assembly": 0.3575,
+        "monetization": 0.08,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Albacete_3f7c9a_official_files_gap_5fb694",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.693,
+      "phases": {
+        "preparation": 0.0458,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0052,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.1443,
+        "youtube": 0.0119,
+        "content_assembly": 0.3717,
+        "monetization": 0.0689,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.736,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.005,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.1559,
+        "youtube": 0.0134,
+        "content_assembly": 0.3819,
+        "monetization": 0.0848,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Almeria_5a5611",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8513,
+      "phases": {
+        "preparation": 0.0546,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.019,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.1367,
+        "youtube": 0.0152,
+        "content_assembly": 0.5213,
+        "monetization": 0.0426,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "Almeria_5a5611_1970s_sky_watches_d7d513",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7379,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0177,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.1452,
+        "youtube": 0.01,
+        "content_assembly": 0.3744,
+        "monetization": 0.0932,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Almeria_5a5611_1968_air_force_file_2dd9e8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7078,
+      "phases": {
+        "preparation": 0.0441,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0146,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.1331,
+        "youtube": 0.0095,
+        "content_assembly": 0.3842,
+        "monetization": 0.0694,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Almeria_5a5611_records_vs_folklore_91ac45",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6988,
+      "phases": {
+        "preparation": 0.0466,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0047,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.1377,
+        "youtube": 0.0111,
+        "content_assembly": 0.3842,
+        "monetization": 0.0681,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Almeria_5a5611_coastal_light_report_f64d29",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7552,
+      "phases": {
+        "preparation": 0.0462,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0067,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.1539,
+        "youtube": 0.0142,
+        "content_assembly": 0.3914,
+        "monetization": 0.0808,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Avila_9a1863",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8337,
+      "phases": {
+        "preparation": 0.0572,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0169,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.1086,
+        "youtube": 0.0109,
+        "content_assembly": 0.5221,
+        "monetization": 0.0579,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Avila_9a1863_avila_official_ufo_f_9a0b92",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6824,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0142,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.1034,
+        "youtube": 0.0092,
+        "content_assembly": 0.3732,
+        "monetization": 0.0856,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Avila_9a1863_gredos_dark_sky_sigh_2adb6e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7317,
+      "phases": {
+        "preparation": 0.0443,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0134,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.1444,
+        "youtube": 0.0125,
+        "content_assembly": 0.3934,
+        "monetization": 0.0695,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Avila_9a1863_la_canada_orange_lig_3d4507",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8797,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0032,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.2821,
+        "youtube": 0.013,
+        "content_assembly": 0.4113,
+        "monetization": 0.0686,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Avila_9a1863_starlink_false_ufo_w_ff7966",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7104,
+      "phases": {
+        "preparation": 0.0433,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0054,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.1391,
+        "youtube": 0.0156,
+        "content_assembly": 0.3886,
+        "monetization": 0.0617,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Barcelona_122a41",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9095,
+      "phases": {
+        "preparation": 0.055,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0223,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.1576,
+        "youtube": 0.0082,
+        "content_assembly": 0.5364,
+        "monetization": 0.0588,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Barcelona_122a41_el_prat_1978_radar_e84eef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6971,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.018,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.1049,
+        "youtube": 0.0107,
+        "content_assembly": 0.3744,
+        "monetization": 0.0935,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Barcelona_122a41_late_1960s_cluster_acbe5f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7158,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0185,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.111,
+        "youtube": 0.0139,
+        "content_assembly": 0.3923,
+        "monetization": 0.0787,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Barcelona_122a41_montserrat_1971_reen_e5bbd5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6749,
+      "phases": {
+        "preparation": 0.046,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0043,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.1381,
+        "youtube": 0.0092,
+        "content_assembly": 0.3698,
+        "monetization": 0.0617,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Barcelona_122a41_spanish_air_force_fi_36b181",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7079,
+      "phases": {
+        "preparation": 0.0459,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.008,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.1426,
+        "youtube": 0.0079,
+        "content_assembly": 0.3812,
+        "monetization": 0.0702,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Badajoz_632079",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8466,
+      "phases": {
+        "preparation": 0.0563,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.1296,
+        "youtube": 0.0113,
+        "content_assembly": 0.5126,
+        "monetization": 0.0571,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Badajoz_632079_aviation_sighting_co_43b9dc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7436,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0152,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.1473,
+        "youtube": 0.0141,
+        "content_assembly": 0.3802,
+        "monetization": 0.0839,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Badajoz_632079_badajoz_declassified_4759df",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6855,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0167,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.1004,
+        "youtube": 0.0096,
+        "content_assembly": 0.3809,
+        "monetization": 0.0772,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Badajoz_632079_talavera_humanoid_ca_12a3d6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7079,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0047,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.1523,
+        "youtube": 0.0105,
+        "content_assembly": 0.384,
+        "monetization": 0.0603,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Badajoz_632079_talavera_radar_echoe_99806b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7017,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0065,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.1368,
+        "youtube": 0.0092,
+        "content_assembly": 0.379,
+        "monetization": 0.078,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Biscay_fc6f6b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9026,
+      "phases": {
+        "preparation": 0.0552,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0206,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.1477,
+        "youtube": 0.0106,
+        "content_assembly": 0.5428,
+        "monetization": 0.0581,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Biscay_fc6f6b_defence_file_trail_34dffe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6812,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0161,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.1042,
+        "youtube": 0.0069,
+        "content_assembly": 0.3771,
+        "monetization": 0.0839,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Biscay_fc6f6b_gallarta_1977_case_b4d7f9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7208,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0162,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.1642,
+        "youtube": 0.0107,
+        "content_assembly": 0.3604,
+        "monetization": 0.0785,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Biscay_fc6f6b_media_afterlife_scep_2ece6f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6857,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0039,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.1459,
+        "youtube": 0.0088,
+        "content_assembly": 0.3739,
+        "monetization": 0.0593,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Biscay_fc6f6b_mining_landscape_tra_19ac87",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6517,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0061,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.1158,
+        "youtube": 0.0062,
+        "content_assembly": 0.367,
+        "monetization": 0.0672,
+        "quality_write": 0.0289
+      }
+    },
+    {
+      "base_name": "Burgos_199e01",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8369,
+      "phases": {
+        "preparation": 0.0549,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0167,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.0985,
+        "youtube": 0.008,
+        "content_assembly": 0.5185,
+        "monetization": 0.0682,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Burgos_199e01_air_force_files_a3c8ea",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7442,
+      "phases": {
+        "preparation": 0.0463,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.0131,
+        "media_svg": 0.1289,
+        "youtube": 0.0112,
+        "content_assembly": 0.4015,
+        "monetization": 0.0966,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Burgos_199e01_humanoid_claims_cb68fc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7491,
+      "phases": {
+        "preparation": 0.0459,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.1294,
+        "youtube": 0.0075,
+        "content_assembly": 0.4118,
+        "monetization": 0.0889,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Burgos_199e01_quintanaortuno_1975_080d3f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6335,
+      "phases": {
+        "preparation": 0.0459,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.003,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.1144,
+        "youtube": 0.0087,
+        "content_assembly": 0.3547,
+        "monetization": 0.0621,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Burgos_199e01_paramo_masa_montorio_f110d4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6952,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0053,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.1372,
+        "youtube": 0.0091,
+        "content_assembly": 0.3804,
+        "monetization": 0.0603,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "A_Coruna_c18697",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9213,
+      "phases": {
+        "preparation": 0.0552,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0198,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.1414,
+        "youtube": 0.0101,
+        "content_assembly": 0.5189,
+        "monetization": 0.1156,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "A_Coruna_c18697_la_grana_legend_01d200",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7064,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0158,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.1403,
+        "youtube": 0.0087,
+        "content_assembly": 0.367,
+        "monetization": 0.0756,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "A_Coruna_c18697_noia_radar_files_7b532a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7014,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0172,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.1518,
+        "youtube": 0.0102,
+        "content_assembly": 0.3599,
+        "monetization": 0.0679,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "A_Coruna_c18697_sky_explanations_cf8447",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7207,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0061,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.1272,
+        "youtube": 0.0117,
+        "content_assembly": 0.4096,
+        "monetization": 0.0624,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "A_Coruna_c18697_ferrol_1966_photo_db65a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6718,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0069,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.1391,
+        "youtube": 0.0107,
+        "content_assembly": 0.3651,
+        "monetization": 0.0605,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Cadiz_bf7148",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8292,
+      "phases": {
+        "preparation": 0.0551,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0175,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.1155,
+        "youtube": 0.0074,
+        "content_assembly": 0.512,
+        "monetization": 0.0575,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Cadiz_bf7148_la_linea_1968_c08224",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7485,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.015,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.1474,
+        "youtube": 0.0132,
+        "content_assembly": 0.3914,
+        "monetization": 0.0856,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Cadiz_bf7148_cadiz_airspace_2a36fa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7101,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.016,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.1357,
+        "youtube": 0.0121,
+        "content_assembly": 0.39,
+        "monetization": 0.0477,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "Cadiz_bf7148_cadiz_sea_lights_ef849a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6643,
+      "phases": {
+        "preparation": 0.046,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0047,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.1078,
+        "youtube": 0.0156,
+        "content_assembly": 0.3916,
+        "monetization": 0.0444,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Cadiz_bf7148_olvera_1974_wave_085a19",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6858,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0064,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.1427,
+        "youtube": 0.0132,
+        "content_assembly": 0.3667,
+        "monetization": 0.0667,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Caceres_23e6f5",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8416,
+      "phases": {
+        "preparation": 0.0548,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0191,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.1117,
+        "youtube": 0.016,
+        "content_assembly": 0.5137,
+        "monetization": 0.0652,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "Caceres_23e6f5_los_barruecos_skywat_16eed3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7759,
+      "phases": {
+        "preparation": 0.0443,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0147,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.1556,
+        "youtube": 0.015,
+        "content_assembly": 0.3795,
+        "monetization": 0.1104,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Caceres_23e6f5_montanchez_balloon_c_913a6e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6523,
+      "phases": {
+        "preparation": 0.046,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0144,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.1071,
+        "youtube": 0.011,
+        "content_assembly": 0.3674,
+        "monetization": 0.0616,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Caceres_23e6f5_seventies_caceres_fl_770f73",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6726,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0035,
+        "content_cleanup_final": 0.0132,
+        "media_svg": 0.1062,
+        "youtube": 0.0122,
+        "content_assembly": 0.374,
+        "monetization": 0.0858,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Caceres_23e6f5_western_road_sightin_a536a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7161,
+      "phases": {
+        "preparation": 0.0464,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0069,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.1559,
+        "youtube": 0.0089,
+        "content_assembly": 0.3867,
+        "monetization": 0.0614,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Ceuta_6791a7",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9281,
+      "phases": {
+        "preparation": 0.0562,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0209,
+        "content_cleanup_final": 0.0331,
+        "media_svg": 0.1158,
+        "youtube": 0.0118,
+        "content_assembly": 0.5843,
+        "monetization": 0.0608,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Ceuta_6791a7_1954_radar_case_b08861",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7228,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.1168,
+        "youtube": 0.0107,
+        "content_assembly": 0.3999,
+        "monetization": 0.0856,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Ceuta_6791a7_1952_saucer_wave_1c3826",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6473,
+      "phases": {
+        "preparation": 0.0549,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0161,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.1055,
+        "youtube": 0.0101,
+        "content_assembly": 0.3463,
+        "monetization": 0.0676,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Ceuta_6791a7_monte_hacho_benzu_91ceb2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6877,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0045,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.1126,
+        "youtube": 0.0123,
+        "content_assembly": 0.4032,
+        "monetization": 0.0605,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Ceuta_6791a7_starlink_explanation_15748d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7441,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0086,
+        "content_cleanup_final": 0.0308,
+        "media_svg": 0.1459,
+        "youtube": 0.0124,
+        "content_assembly": 0.4023,
+        "monetization": 0.0642,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Cordoba_c65d18",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8258,
+      "phases": {
+        "preparation": 0.0551,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0147,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.1146,
+        "youtube": 0.0104,
+        "content_assembly": 0.5299,
+        "monetization": 0.0412,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "Cordoba_c65d18_cerro_muriano_milita_332945",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6667,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0119,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.1067,
+        "youtube": 0.0143,
+        "content_assembly": 0.3737,
+        "monetization": 0.0696,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Cordoba_c65d18_cordoba_modern_sky_r_9fa390",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7055,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.014,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.1419,
+        "youtube": 0.0125,
+        "content_assembly": 0.39,
+        "monetization": 0.0545,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Cordoba_c65d18_cordoba_official_fil_f4b1f3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6601,
+      "phases": {
+        "preparation": 0.0449,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0037,
+        "content_cleanup_final": 0.0129,
+        "media_svg": 0.1244,
+        "youtube": 0.0116,
+        "content_assembly": 0.3707,
+        "monetization": 0.0604,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Cordoba_c65d18_pozoblanco_pink_ligh_63ee4c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6405,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.0058,
+        "content_cleanup_final": 0.0118,
+        "media_svg": 0.1375,
+        "youtube": 0.0123,
+        "content_assembly": 0.3371,
+        "monetization": 0.0615,
+        "quality_write": 0.0292
+      }
+    },
+    {
+      "base_name": "Ciudad_Real_1bcbd0",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8806,
+      "phases": {
+        "preparation": 0.0557,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0173,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.1037,
+        "youtube": 0.0083,
+        "content_assembly": 0.5375,
+        "monetization": 0.0945,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Ciudad_Real_1bcbd0_evidence_trail_90b83e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7306,
+      "phases": {
+        "preparation": 0.0458,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0154,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.1559,
+        "youtube": 0.0151,
+        "content_assembly": 0.3898,
+        "monetization": 0.0539,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Ciudad_Real_1bcbd0_1950_press_wave_683054",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6943,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0159,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.1379,
+        "youtube": 0.0091,
+        "content_assembly": 0.3789,
+        "monetization": 0.0614,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Ciudad_Real_1bcbd0_1966_rocket_cloud_193f59",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6439,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0043,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.1074,
+        "youtube": 0.0086,
+        "content_assembly": 0.3684,
+        "monetization": 0.0629,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Ciudad_Real_1bcbd0_1983_ufo_congress_8cb729",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6658,
+      "phases": {
+        "preparation": 0.0443,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0062,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.1157,
+        "youtube": 0.009,
+        "content_assembly": 0.3826,
+        "monetization": 0.0608,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Castellon_b6b2a8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8943,
+      "phases": {
+        "preparation": 0.0547,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0176,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.1589,
+        "youtube": 0.0068,
+        "content_assembly": 0.5296,
+        "monetization": 0.0572,
+        "quality_write": 0.0433
+      }
+    },
+    {
+      "base_name": "Castellon_b6b2a8_aircraft_radar_gap_a3b36e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7596,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0158,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.1599,
+        "youtube": 0.011,
+        "content_assembly": 0.3749,
+        "monetization": 0.1,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Castellon_b6b2a8_missile_meteor_space_83dba3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.66,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0139,
+        "content_cleanup_final": 0.0133,
+        "media_svg": 0.0996,
+        "youtube": 0.0144,
+        "content_assembly": 0.3798,
+        "monetization": 0.0647,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Castellon_b6b2a8_official_records_par_c4b0bb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6403,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0037,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.1091,
+        "youtube": 0.0094,
+        "content_assembly": 0.3685,
+        "monetization": 0.0598,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Castellon_b6b2a8_vinaros_benicasim_si_30caaa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6897,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0051,
+        "content_cleanup_final": 0.0124,
+        "media_svg": 0.1427,
+        "youtube": 0.0089,
+        "content_assembly": 0.3571,
+        "monetization": 0.0628,
+        "quality_write": 0.0557
+      }
+    },
+    {
+      "base_name": "Cuenca_18bceb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8458,
+      "phases": {
+        "preparation": 0.0553,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.1349,
+        "youtube": 0.0096,
+        "content_assembly": 0.5071,
+        "monetization": 0.0606,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Cuenca_18bceb_air_force_files_a3c8ea",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7285,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0143,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.1469,
+        "youtube": 0.0086,
+        "content_assembly": 0.378,
+        "monetization": 0.0863,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Cuenca_18bceb_1968_iberia_balloon_74bc92",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6783,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0123,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.1292,
+        "youtube": 0.0088,
+        "content_assembly": 0.3712,
+        "monetization": 0.0628,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Cuenca_18bceb_landete_campillo_lig_09bb4f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.665,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0035,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.0987,
+        "youtube": 0.0133,
+        "content_assembly": 0.3879,
+        "monetization": 0.0685,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Cuenca_18bceb_solera_recurring_lig_2283fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.693,
+      "phases": {
+        "preparation": 0.0443,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0057,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.1047,
+        "youtube": 0.0127,
+        "content_assembly": 0.4045,
+        "monetization": 0.062,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Las_Palmas_c2c576",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8679,
+      "phases": {
+        "preparation": 0.055,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0218,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.0992,
+        "youtube": 0.0101,
+        "content_assembly": 0.5328,
+        "monetization": 0.0772,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Las_Palmas_c2c576_galdar_1976_case_5947cb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6423,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0155,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.1052,
+        "youtube": 0.0089,
+        "content_assembly": 0.3492,
+        "monetization": 0.0681,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Las_Palmas_c2c576_gran_canaria_1974_cf7895",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6544,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0157,
+        "content_cleanup_final": 0.0115,
+        "media_svg": 0.0997,
+        "youtube": 0.0109,
+        "content_assembly": 0.3626,
+        "monetization": 0.0773,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Las_Palmas_c2c576_missile_explanation_2872d9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6544,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0034,
+        "content_cleanup_final": 0.0144,
+        "media_svg": 0.1073,
+        "youtube": 0.0106,
+        "content_assembly": 0.3794,
+        "monetization": 0.0624,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Las_Palmas_c2c576_spanish_air_force_fi_36b181",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6376,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0068,
+        "content_cleanup_final": 0.0116,
+        "media_svg": 0.1083,
+        "youtube": 0.0102,
+        "content_assembly": 0.3627,
+        "monetization": 0.0605,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Girona_1912ef",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8687,
+      "phases": {
+        "preparation": 0.0548,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0181,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.1377,
+        "youtube": 0.0153,
+        "content_assembly": 0.5218,
+        "monetization": 0.0595,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "Girona_1912ef_blanes_1982_53da88",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6684,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.016,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.1113,
+        "youtube": 0.0087,
+        "content_assembly": 0.36,
+        "monetization": 0.0845,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "Girona_1912ef_roses_radar_site_de186b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7395,
+      "phases": {
+        "preparation": 0.1071,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.013,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.1055,
+        "youtube": 0.011,
+        "content_assembly": 0.3877,
+        "monetization": 0.0626,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Girona_1912ef_1993_space_debris_a8fc85",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.742,
+      "phases": {
+        "preparation": 0.1042,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0032,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.1264,
+        "youtube": 0.0135,
+        "content_assembly": 0.3732,
+        "monetization": 0.0751,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Girona_1912ef_girona_airport_ballo_65709d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7231,
+      "phases": {
+        "preparation": 0.1036,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0038,
+        "content_cleanup_final": 0.0118,
+        "media_svg": 0.1265,
+        "youtube": 0.0111,
+        "content_assembly": 0.3725,
+        "monetization": 0.062,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Granada_3f7db9",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8213,
+      "phases": {
+        "preparation": 0.0556,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0191,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.1013,
+        "youtube": 0.0181,
+        "content_assembly": 0.5145,
+        "monetization": 0.0557,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "Granada_3f7db9_motril_1979_case_8eda79",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7125,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0153,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.1305,
+        "youtube": 0.0137,
+        "content_assembly": 0.3754,
+        "monetization": 0.0831,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Granada_3f7db9_granada_official_fil_7f1763",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.671,
+      "phases": {
+        "preparation": 0.0449,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0165,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.1071,
+        "youtube": 0.0158,
+        "content_assembly": 0.3687,
+        "monetization": 0.0693,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Granada_3f7db9_motril_radar_context_b9d114",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6821,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0037,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.146,
+        "youtube": 0.0089,
+        "content_assembly": 0.3814,
+        "monetization": 0.0454,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Granada_3f7db9_sierra_nevada_skywat_fd54db",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7511,
+      "phases": {
+        "preparation": 0.0449,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0082,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.1433,
+        "youtube": 0.0192,
+        "content_assembly": 0.4224,
+        "monetization": 0.0453,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Guadalajara_2d19b1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9038,
+      "phases": {
+        "preparation": 0.0547,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.02,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.1283,
+        "youtube": 0.0091,
+        "content_assembly": 0.5851,
+        "monetization": 0.0427,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Guadalajara_2d19b1_orange_lights_city_2f870d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.762,
+      "phases": {
+        "preparation": 0.0455,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0169,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.1059,
+        "youtube": 0.0104,
+        "content_assembly": 0.4474,
+        "monetization": 0.0849,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Guadalajara_2d19b1_cerro_pimiento_1974_54d212",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7102,
+      "phases": {
+        "preparation": 0.0927,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0182,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.1125,
+        "youtube": 0.0113,
+        "content_assembly": 0.3755,
+        "monetization": 0.0531,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Guadalajara_2d19b1_sacedon_1969_bolide_cdefc6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6983,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0045,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.1318,
+        "youtube": 0.0102,
+        "content_assembly": 0.3916,
+        "monetization": 0.062,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Guadalajara_2d19b1_roads_reservoirs_ent_6b8969",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7067,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.007,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 0.129,
+        "youtube": 0.0112,
+        "content_assembly": 0.395,
+        "monetization": 0.0612,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Huelva_bc0cde",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8916,
+      "phases": {
+        "preparation": 0.0548,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0196,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.137,
+        "youtube": 0.0099,
+        "content_assembly": 0.5448,
+        "monetization": 0.0577,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Huelva_bc0cde_aracena_2025_2248b5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7705,
+      "phases": {
+        "preparation": 0.0459,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0177,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.1263,
+        "youtube": 0.0161,
+        "content_assembly": 0.4105,
+        "monetization": 0.0858,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "Huelva_bc0cde_mazagon_lighthouse_1b20bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6871,
+      "phases": {
+        "preparation": 0.0435,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0165,
+        "content_cleanup_final": 0.0194,
+        "media_svg": 0.1052,
+        "youtube": 0.0092,
+        "content_assembly": 0.3933,
+        "monetization": 0.0668,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Huelva_bc0cde_donana_disaster_sigh_ff9dc5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6917,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0047,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.1203,
+        "youtube": 0.0081,
+        "content_assembly": 0.3938,
+        "monetization": 0.0618,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Huelva_bc0cde_el_arenosillo_aerosp_532406",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6916,
+      "phases": {
+        "preparation": 0.0469,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0067,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.1204,
+        "youtube": 0.0116,
+        "content_assembly": 0.3891,
+        "monetization": 0.0616,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Huesca_59c1aa",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7934,
+      "phases": {
+        "preparation": 0.0543,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0183,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.1037,
+        "youtube": 0.0133,
+        "content_assembly": 0.4895,
+        "monetization": 0.0573,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Huesca_59c1aa_pusilibro_1977_d27242",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7131,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0167,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.1205,
+        "youtube": 0.0157,
+        "content_assembly": 0.3742,
+        "monetization": 0.0854,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Huesca_59c1aa_1971_air_force_file_646562",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.698,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.014,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.1467,
+        "youtube": 0.0085,
+        "content_assembly": 0.3691,
+        "monetization": 0.0685,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Huesca_59c1aa_barbastro_tardienta_43ced7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7296,
+      "phases": {
+        "preparation": 0.0458,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0053,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.1369,
+        "youtube": 0.0124,
+        "content_assembly": 0.4033,
+        "monetization": 0.0618,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Huesca_59c1aa_mountain_lights_expl_dfd50f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7151,
+      "phases": {
+        "preparation": 0.0455,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.006,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.1134,
+        "youtube": 0.0116,
+        "content_assembly": 0.4147,
+        "monetization": 0.0682,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Jaen_6daea8_los_villares_marked_9bc149",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6843,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0155,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.0987,
+        "youtube": 0.0131,
+        "content_assembly": 0.3706,
+        "monetization": 0.0913,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Jaen_6daea8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8641,
+      "phases": {
+        "preparation": 0.0542,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0212,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.115,
+        "youtube": 0.0093,
+        "content_assembly": 0.5444,
+        "monetization": 0.0518,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Jaen_6daea8_jaen_sighting_hotspo_b04786",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7354,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0177,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.1494,
+        "youtube": 0.0081,
+        "content_assembly": 0.3945,
+        "monetization": 0.0677,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Jaen_6daea8_official_files_verif_24ed10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6637,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0074,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.1064,
+        "youtube": 0.0092,
+        "content_assembly": 0.3841,
+        "monetization": 0.0606,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Jaen_6daea8_ordinary_light_expla_3f6af6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6409,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0029,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.1024,
+        "youtube": 0.0127,
+        "content_assembly": 0.3737,
+        "monetization": 0.06,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Lleida_a3bb84_1971_multi_province_5e4a40",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6707,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.014,
+        "content_cleanup_final": 0.0133,
+        "media_svg": 0.1075,
+        "youtube": 0.01,
+        "content_assembly": 0.3723,
+        "monetization": 0.0763,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Lleida_a3bb84",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8337,
+      "phases": {
+        "preparation": 0.0538,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0196,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.0982,
+        "youtube": 0.0116,
+        "content_assembly": 0.5281,
+        "monetization": 0.0573,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "Lleida_a3bb84_1993_rocket_reentry_db4285",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7075,
+      "phases": {
+        "preparation": 0.0463,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0153,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.1065,
+        "youtube": 0.011,
+        "content_assembly": 0.3957,
+        "monetization": 0.0794,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Lleida_a3bb84_official_files_press_3c9ed3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6286,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0034,
+        "content_cleanup_final": 0.0112,
+        "media_svg": 0.1045,
+        "youtube": 0.0065,
+        "content_assembly": 0.366,
+        "monetization": 0.0604,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Lleida_a3bb84_1968_pilot_radar_cas_fbbbb9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7458,
+      "phases": {
+        "preparation": 0.0464,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0077,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.1772,
+        "youtube": 0.0093,
+        "content_assembly": 0.3863,
+        "monetization": 0.0619,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Leon_8b001a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8716,
+      "phases": {
+        "preparation": 0.0578,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0176,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.1376,
+        "youtube": 0.0159,
+        "content_assembly": 0.5181,
+        "monetization": 0.0588,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Leon_8b001a_puente_almuhey_file_d26c2c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7142,
+      "phases": {
+        "preparation": 0.046,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.011,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.1461,
+        "youtube": 0.0089,
+        "content_assembly": 0.3683,
+        "monetization": 0.0835,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Leon_8b001a_leon_roadside_encoun_553cc7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6552,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0123,
+        "content_cleanup_final": 0.0132,
+        "media_svg": 0.1166,
+        "youtube": 0.0132,
+        "content_assembly": 0.3561,
+        "monetization": 0.0679,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Leon_8b001a_natural_explanations_f1b4c3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6696,
+      "phases": {
+        "preparation": 0.0482,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0039,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.0962,
+        "youtube": 0.0078,
+        "content_assembly": 0.393,
+        "monetization": 0.0624,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Leon_8b001a_tolibia_mountain_fla_d10705",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6688,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0074,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.1112,
+        "youtube": 0.0112,
+        "content_assembly": 0.3823,
+        "monetization": 0.0601,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "La_Rioja_a6a1e6_rioja_1974_wave_2fe775",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6837,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0135,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.1451,
+        "youtube": 0.0106,
+        "content_assembly": 0.3615,
+        "monetization": 0.0611,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "La_Rioja_a6a1e6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8854,
+      "phases": {
+        "preparation": 0.057,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0175,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.1028,
+        "youtube": 0.0099,
+        "content_assembly": 0.5437,
+        "monetization": 0.0831,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "La_Rioja_a6a1e6_agoncillo_official_r_9b03db",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6902,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0155,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.1395,
+        "youtube": 0.0095,
+        "content_assembly": 0.3681,
+        "monetization": 0.0598,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "La_Rioja_a6a1e6_arrubal_child_witnes_7ac590",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6422,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0077,
+        "content_cleanup_final": 0.0144,
+        "media_svg": 0.1201,
+        "youtube": 0.0128,
+        "content_assembly": 0.3616,
+        "monetization": 0.0463,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "La_Rioja_a6a1e6_aviation_explanation_7af14d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6867,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0055,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.1164,
+        "youtube": 0.0116,
+        "content_assembly": 0.391,
+        "monetization": 0.0555,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "Lugo_3c0a46",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8488,
+      "phases": {
+        "preparation": 0.0572,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0202,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.1439,
+        "youtube": 0.0091,
+        "content_assembly": 0.5016,
+        "monetization": 0.0572,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "Lugo_3c0a46_becerrea_1969_file_d843d1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7122,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0157,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.1606,
+        "youtube": 0.0069,
+        "content_assembly": 0.3576,
+        "monetization": 0.0813,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Lugo_3c0a46_as_gandaras_depot_add323",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7718,
+      "phases": {
+        "preparation": 0.0465,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0182,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.1484,
+        "youtube": 0.0106,
+        "content_assembly": 0.3975,
+        "monetization": 0.0893,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Lugo_3c0a46_galicia_1995_96_wave_dc8fcd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7212,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0048,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.1318,
+        "youtube": 0.0135,
+        "content_assembly": 0.3943,
+        "monetization": 0.07,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Lugo_3c0a46_venus_hyakutake_expl_473b84",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6691,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.007,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.1009,
+        "youtube": 0.0092,
+        "content_assembly": 0.3819,
+        "monetization": 0.0692,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Madrid_7a2191",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8961,
+      "phases": {
+        "preparation": 0.0555,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0217,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.1381,
+        "youtube": 0.0161,
+        "content_assembly": 0.5286,
+        "monetization": 0.0606,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Madrid_7a2191_madrid_1960s_wave_46cc69",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.703,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0165,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.1312,
+        "youtube": 0.0095,
+        "content_assembly": 0.3808,
+        "monetization": 0.0658,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Madrid_7a2191_madrid_declassified_a4cb5f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6406,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0172,
+        "content_cleanup_final": 0.0136,
+        "media_svg": 0.1121,
+        "youtube": 0.0105,
+        "content_assembly": 0.3564,
+        "monetization": 0.0521,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Madrid_7a2191_madrid_suburban_sigh_bf60fa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6501,
+      "phases": {
+        "preparation": 0.0443,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0042,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.1067,
+        "youtube": 0.0097,
+        "content_assembly": 0.3821,
+        "monetization": 0.0539,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Madrid_7a2191_torrejon_barajas_avi_a31215",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6905,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0089,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.1288,
+        "youtube": 0.0129,
+        "content_assembly": 0.3977,
+        "monetization": 0.0453,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Malaga_7b094a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8602,
+      "phases": {
+        "preparation": 0.0554,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0178,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.1411,
+        "youtube": 0.0088,
+        "content_assembly": 0.5119,
+        "monetization": 0.0597,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Malaga_7b094a_san_carlos_1984_f44070",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7021,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0175,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.1001,
+        "youtube": 0.0084,
+        "content_assembly": 0.3787,
+        "monetization": 0.11,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Malaga_7b094a_ciudad_jardin_1974_c538ce",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.692,
+      "phases": {
+        "preparation": 0.0463,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0143,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.151,
+        "youtube": 0.0069,
+        "content_assembly": 0.3633,
+        "monetization": 0.0622,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Malaga_7b094a_andalusian_1968_flap_afde09",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.701,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.003,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.1493,
+        "youtube": 0.0086,
+        "content_assembly": 0.381,
+        "monetization": 0.0634,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Malaga_7b094a_costa_del_sol_1989_b_ae8afe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6836,
+      "phases": {
+        "preparation": 0.0449,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0049,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.1362,
+        "youtube": 0.0086,
+        "content_assembly": 0.3707,
+        "monetization": 0.0714,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Melilla_c01d8f_melilla_file_gaps_0b75b6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7096,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0196,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.1015,
+        "youtube": 0.0138,
+        "content_assembly": 0.3904,
+        "monetization": 0.0871,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Melilla_c01d8f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9052,
+      "phases": {
+        "preparation": 0.0549,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0231,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.1454,
+        "youtube": 0.0114,
+        "content_assembly": 0.5382,
+        "monetization": 0.0607,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Melilla_c01d8f_cadarso_radar_echo_9066c3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7398,
+      "phases": {
+        "preparation": 0.0471,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0181,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.1081,
+        "youtube": 0.0129,
+        "content_assembly": 0.4132,
+        "monetization": 0.0729,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Melilla_c01d8f_december_1976_fireba_f02a34",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7018,
+      "phases": {
+        "preparation": 0.0455,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0064,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.1232,
+        "youtube": 0.0103,
+        "content_assembly": 0.3974,
+        "monetization": 0.0612,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Melilla_c01d8f_juan_rios_1977_sight_657a0b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7878,
+      "phases": {
+        "preparation": 0.0449,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0055,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.159,
+        "youtube": 0.0103,
+        "content_assembly": 0.4309,
+        "monetization": 0.0676,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Murcia_fed56b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8021,
+      "phases": {
+        "preparation": 0.0571,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0136,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.104,
+        "youtube": 0.013,
+        "content_assembly": 0.502,
+        "monetization": 0.0519,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Murcia_fed56b_mazarron_1978_3cb0d4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.686,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0108,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.1051,
+        "youtube": 0.0101,
+        "content_assembly": 0.3809,
+        "monetization": 0.0773,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Murcia_fed56b_official_files_c31821",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7021,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0128,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.1553,
+        "youtube": 0.0089,
+        "content_assembly": 0.3739,
+        "monetization": 0.0549,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Murcia_fed56b_explained_lights_c5666f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6549,
+      "phases": {
+        "preparation": 0.0481,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0053,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.1039,
+        "youtube": 0.0151,
+        "content_assembly": 0.3726,
+        "monetization": 0.0595,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Navarre_d04319",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9062,
+      "phases": {
+        "preparation": 0.0569,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.019,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.1219,
+        "youtube": 0.0135,
+        "content_assembly": 0.5571,
+        "monetization": 0.063,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "Murcia_fed56b_san_javier_1962_a2ca9e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8039,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0025,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.1067,
+        "youtube": 1.1811,
+        "content_assembly": 0.3682,
+        "monetization": 0.0534,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Navarre_d04319_1975_bardenas_eviden_394b90",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6832,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.0126,
+        "media_svg": 0.1365,
+        "youtube": 0.0095,
+        "content_assembly": 0.3565,
+        "monetization": 0.0757,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Navarre_d04319_air_force_files_nava_567403",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6699,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0037,
+        "content_cleanup_final": 0.0136,
+        "media_svg": 0.1381,
+        "youtube": 0.0106,
+        "content_assembly": 0.3721,
+        "monetization": 0.0518,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Navarre_d04319_bardenas_range_hotsp_d28cbf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.776,
+      "phases": {
+        "preparation": 0.0507,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0146,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.1328,
+        "youtube": 0.0117,
+        "content_assembly": 0.4434,
+        "monetization": 0.0685,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Navarre_d04319_modern_satellite_sig_878b58",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7132,
+      "phases": {
+        "preparation": 0.0462,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.008,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.1189,
+        "youtube": 0.0136,
+        "content_assembly": 0.3967,
+        "monetization": 0.0698,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "Asturias_60aedd",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9089,
+      "phases": {
+        "preparation": 0.0563,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0212,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.1448,
+        "youtube": 0.0111,
+        "content_assembly": 0.5523,
+        "monetization": 0.0575,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "Asturias_60aedd_gijon_ufo_folklore_a24913",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7652,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.1072,
+        "youtube": 0.0105,
+        "content_assembly": 0.4436,
+        "monetization": 0.0802,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Asturias_60aedd_gijon_1969_balloon_1cf9a3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7932,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0162,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.1508,
+        "youtube": 0.0116,
+        "content_assembly": 0.4379,
+        "monetization": 0.0706,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Asturias_60aedd_asturias_airport_wit_a53401",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6796,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.003,
+        "content_cleanup_final": 0.0107,
+        "media_svg": 0.1049,
+        "youtube": 0.0098,
+        "content_assembly": 0.3632,
+        "monetization": 0.1121,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Asturias_60aedd_asturias_official_fi_725a0d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6572,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0076,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.102,
+        "youtube": 0.0105,
+        "content_assembly": 0.3792,
+        "monetization": 0.0603,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Ourense_35c272",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8378,
+      "phases": {
+        "preparation": 0.0702,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.0987,
+        "youtube": 0.0146,
+        "content_assembly": 0.5312,
+        "monetization": 0.0434,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "Ourense_35c272_official_files_gap_5fb694",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6645,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.017,
+        "content_cleanup_final": 0.0115,
+        "media_svg": 0.1028,
+        "youtube": 0.0088,
+        "content_assembly": 0.3671,
+        "monetization": 0.0828,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Ourense_35c272_a_limia_landing_clai_c91abb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6616,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.014,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.1009,
+        "youtube": 0.0066,
+        "content_assembly": 0.3905,
+        "monetization": 0.0519,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Ourense_35c272_galicia_wave_ourense_73c0b8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6773,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0044,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.1423,
+        "youtube": 0.0116,
+        "content_assembly": 0.3779,
+        "monetization": 0.0454,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Palencia_b6f02b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8257,
+      "phases": {
+        "preparation": 0.0545,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0172,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.1019,
+        "youtube": 0.0148,
+        "content_assembly": 0.5175,
+        "monetization": 0.0604,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Palencia_b6f02b_venus_explanation_aaabeb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7153,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0144,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.1337,
+        "youtube": 0.0101,
+        "content_assembly": 0.3813,
+        "monetization": 0.0849,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Ourense_35c272_antela_strange_skies_03c12a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8991,
+      "phases": {
+        "preparation": 0.0478,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0047,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.1056,
+        "youtube": 0.0112,
+        "content_assembly": 0.3862,
+        "monetization": 1.2827,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Palencia_b6f02b_villalon_mazariegos_10135e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7081,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0035,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.1499,
+        "youtube": 0.0089,
+        "content_assembly": 0.3793,
+        "monetization": 0.0692,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Palencia_b6f02b_declassified_ufo_fil_b91f7f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6471,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.006,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.1081,
+        "youtube": 0.0086,
+        "content_assembly": 0.37,
+        "monetization": 0.0604,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Palencia_b6f02b_late_1968_sighting_w_8b304d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6414,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0132,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.106,
+        "youtube": 0.0094,
+        "content_assembly": 0.359,
+        "monetization": 0.0625,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Balearic_Islands_d9fdd5",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8949,
+      "phases": {
+        "preparation": 0.0558,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0218,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.1304,
+        "youtube": 0.0105,
+        "content_assembly": 0.5175,
+        "monetization": 0.0909,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Balearic_Islands_d9fdd5_balearic_flap_1978_1_9f9a20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7061,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0173,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.1501,
+        "youtube": 0.012,
+        "content_assembly": 0.3747,
+        "monetization": 0.0558,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Balearic_Islands_d9fdd5_menorca_1978_pilot_c_dac5e8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6842,
+      "phases": {
+        "preparation": 0.046,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0167,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.1486,
+        "youtube": 0.0138,
+        "content_assembly": 0.3659,
+        "monetization": 0.0458,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Balearic_Islands_d9fdd5_spanish_defence_file_1c29da",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7048,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0043,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.1602,
+        "youtube": 0.0094,
+        "content_assembly": 0.3826,
+        "monetization": 0.0473,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Balearic_Islands_d9fdd5_tamames_formentera_c_440a06",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6326,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0073,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.1032,
+        "youtube": 0.0137,
+        "content_assembly": 0.3703,
+        "monetization": 0.0441,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8423,
+      "phases": {
+        "preparation": 0.0554,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0221,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.109,
+        "youtube": 0.0131,
+        "content_assembly": 0.5178,
+        "monetization": 0.0604,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83_defence_file_gap_34ed7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.698,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.1497,
+        "youtube": 0.0101,
+        "content_assembly": 0.3673,
+        "monetization": 1.0615,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83_minguela_landing_cla_9ed41c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6681,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0052,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.1411,
+        "youtube": 0.0105,
+        "content_assembly": 0.3654,
+        "monetization": 0.0591,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Cantabria_c90a8d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8958,
+      "phases": {
+        "preparation": 0.0552,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0169,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.1418,
+        "youtube": 0.0203,
+        "content_assembly": 0.5336,
+        "monetization": 0.0575,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83_vigo_coast_cluster_5971ed",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9099,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.1073,
+        "youtube": 0.0078,
+        "content_assembly": 0.3816,
+        "monetization": 3.2988,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Cantabria_c90a8d_aviaco_501_dec487",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6891,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0039,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.1015,
+        "youtube": 0.0147,
+        "content_assembly": 0.3915,
+        "monetization": 0.0828,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Cantabria_c90a8d_lights_of_cayon_bc3883",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7087,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0134,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.0977,
+        "youtube": 0.0145,
+        "content_assembly": 0.4042,
+        "monetization": 0.0767,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Cantabria_c90a8d_official_file_gap_cd636e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6816,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0023,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.142,
+        "youtube": 0.0108,
+        "content_assembly": 0.3654,
+        "monetization": 0.0686,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Pontevedra_0aef83_vigo_pilot_sighting_d745a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8911,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0058,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.127,
+        "youtube": 0.0126,
+        "content_assembly": 0.3678,
+        "monetization": 4.2825,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Salamanca_973fa7",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8551,
+      "phases": {
+        "preparation": 0.0554,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0162,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.1334,
+        "youtube": 0.011,
+        "content_assembly": 0.5171,
+        "monetization": 0.0584,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Salamanca_973fa7_bejar_lights_b38cc6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7175,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0149,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.1096,
+        "youtube": 0.0147,
+        "content_assembly": 0.3946,
+        "monetization": 0.0852,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Salamanca_973fa7_lagunilla_1974_32790a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6367,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0041,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.0995,
+        "youtube": 0.0094,
+        "content_assembly": 0.3678,
+        "monetization": 0.0607,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Salamanca_973fa7_gallegos_traces_57e6b5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6611,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.005,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.1052,
+        "youtube": 0.0134,
+        "content_assembly": 0.3663,
+        "monetization": 0.0741,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Salamanca_973fa7_official_files_folkl_8fa61d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6708,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0017,
+        "content_cleanup_final": 0.013,
+        "media_svg": 0.1427,
+        "youtube": 0.0172,
+        "content_assembly": 0.3583,
+        "monetization": 0.0609,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Seville_41f368",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8479,
+      "phases": {
+        "preparation": 0.0557,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0181,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.1318,
+        "youtube": 0.0103,
+        "content_assembly": 0.5169,
+        "monetization": 0.0457,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Seville_41f368_1968_light_reports_01debd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6812,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0162,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.1076,
+        "youtube": 0.01,
+        "content_assembly": 0.3702,
+        "monetization": 0.0808,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Seville_41f368_aznalcollar_1974_evi_309e2f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6311,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0038,
+        "content_cleanup_final": 0.0098,
+        "media_svg": 0.126,
+        "youtube": 0.0074,
+        "content_assembly": 0.353,
+        "monetization": 0.0547,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Seville_41f368_moron_1995_helicopte_85ba59",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7317,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0052,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.158,
+        "youtube": 0.0165,
+        "content_assembly": 0.3872,
+        "monetization": 0.061,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Seville_41f368_san_pablo_airport_re_0fab2a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.667,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0017,
+        "content_cleanup_final": 0.0113,
+        "media_svg": 0.097,
+        "youtube": 0.01,
+        "content_assembly": 0.366,
+        "monetization": 0.0647,
+        "quality_write": 0.0704
+      }
+    },
+    {
+      "base_name": "Segovia_11f113",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8825,
+      "phases": {
+        "preparation": 0.0557,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0191,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.1041,
+        "youtube": 0.0126,
+        "content_assembly": 0.5709,
+        "monetization": 0.0575,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Segovia_11f113_olombrada_ufo_sign_103365",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6737,
+      "phases": {
+        "preparation": 0.0458,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.1089,
+        "youtube": 0.0096,
+        "content_assembly": 0.376,
+        "monetization": 0.069,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "Segovia_11f113_madrona_1976_sightin_880282",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6875,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0072,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.1316,
+        "youtube": 0.0074,
+        "content_assembly": 0.3811,
+        "monetization": 0.0654,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Segovia_11f113_castilla_y_leon_cont_5904ce",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2497,
+      "phases": {
+        "preparation": 0.0469,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0041,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.1455,
+        "youtube": 0.0088,
+        "content_assembly": 0.3756,
+        "monetization": 0.6168,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Segovia_11f113_missing_defence_file_809d96",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6448,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0022,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.1136,
+        "youtube": 0.0098,
+        "content_assembly": 0.3649,
+        "monetization": 0.0624,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Soria_198769",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8381,
+      "phases": {
+        "preparation": 0.0555,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0161,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.128,
+        "youtube": 0.0104,
+        "content_assembly": 0.5059,
+        "monetization": 0.0647,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Soria_198769_julio_f_abduction_ad877d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7233,
+      "phases": {
+        "preparation": 0.0458,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0135,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.1124,
+        "youtube": 0.0115,
+        "content_assembly": 0.3812,
+        "monetization": 0.1066,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Soria_198769_barahona_radar_case_de5c89",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7493,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0029,
+        "content_cleanup_final": 0.0118,
+        "media_svg": 0.1983,
+        "youtube": 0.0103,
+        "content_assembly": 0.3753,
+        "monetization": 0.074,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Cantabria_c90a8d_sighting_clusters_358af4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7848,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0072,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.1452,
+        "youtube": 7.0748,
+        "content_assembly": 0.3909,
+        "monetization": 0.063,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Soria_198769_modern_soria_lights_78e854",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.74,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0062,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.1017,
+        "youtube": 0.0185,
+        "content_assembly": 0.3992,
+        "monetization": 0.1051,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Soria_198769_september_1968_flap_7766a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6592,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0026,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.1068,
+        "youtube": 0.0102,
+        "content_assembly": 0.3991,
+        "monetization": 0.0389,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "Gipuzkoa_c8b477",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.859,
+      "phases": {
+        "preparation": 0.0571,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.02,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.1044,
+        "youtube": 0.0122,
+        "content_assembly": 0.5336,
+        "monetization": 0.0589,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "Gipuzkoa_c8b477_1985_jupiter_chase_251ddb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7005,
+      "phases": {
+        "preparation": 0.045,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0154,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.1072,
+        "youtube": 0.0132,
+        "content_assembly": 0.3798,
+        "monetization": 0.0861,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "Gipuzkoa_c8b477_official_files_gap_5fb694",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6814,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0178,
+        "content_cleanup_final": 0.0146,
+        "media_svg": 0.1225,
+        "youtube": 0.0091,
+        "content_assembly": 0.3822,
+        "monetization": 0.0594,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Gipuzkoa_c8b477_media_police_checks_60bcbb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6381,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0043,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.0991,
+        "youtube": 0.0105,
+        "content_assembly": 0.3657,
+        "monetization": 0.0674,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Gipuzkoa_c8b477_1971_cantabrian_file_5887c2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.658,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0067,
+        "content_cleanup_final": 0.0127,
+        "media_svg": 0.1232,
+        "youtube": 0.0111,
+        "content_assembly": 0.3642,
+        "monetization": 0.0642,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Tarragona_3ac142",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8247,
+      "phases": {
+        "preparation": 0.0551,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0207,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.0986,
+        "youtube": 0.013,
+        "content_assembly": 0.5,
+        "monetization": 0.0697,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Tarragona_3ac142_reus_airport_role_e6053c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6825,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0163,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.1217,
+        "youtube": 0.0106,
+        "content_assembly": 0.354,
+        "monetization": 0.0875,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Tarragona_3ac142_reus_1969_airbase_69bbb5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7194,
+      "phases": {
+        "preparation": 0.0458,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.1453,
+        "youtube": 0.0104,
+        "content_assembly": 0.3711,
+        "monetization": 0.0816,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Tarragona_3ac142_reus_1967_air_route_121270",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7115,
+      "phases": {
+        "preparation": 0.0455,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0036,
+        "content_cleanup_final": 0.0137,
+        "media_svg": 0.1676,
+        "youtube": 0.0079,
+        "content_assembly": 0.3805,
+        "monetization": 0.0605,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Tarragona_3ac142_declassified_tarrago_991eea",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6763,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0076,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.1105,
+        "youtube": 0.0096,
+        "content_assembly": 0.3866,
+        "monetization": 0.064,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "Teruel_fc2989",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8871,
+      "phases": {
+        "preparation": 0.0551,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0178,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.1416,
+        "youtube": 0.0116,
+        "content_assembly": 0.5358,
+        "monetization": 0.0577,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Teruel_fc2989_july_1981_flap_cd5681",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7387,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0127,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.111,
+        "youtube": 0.0122,
+        "content_assembly": 0.3943,
+        "monetization": 0.1073,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Teruel_fc2989_military_files_a84026",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7029,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0146,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.1394,
+        "youtube": 0.0121,
+        "content_assembly": 0.3706,
+        "monetization": 0.0719,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Teruel_fc2989_misidentified_lights_0c3d1c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6877,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0069,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.1391,
+        "youtube": 0.01,
+        "content_assembly": 0.391,
+        "monetization": 0.0416,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Santa_Cruz_de_Teneri_4ff430",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.875,
+      "phases": {
+        "preparation": 0.0549,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0201,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.1037,
+        "youtube": 0.0105,
+        "content_assembly": 0.53,
+        "monetization": 0.0904,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Santa_Cruz_de_Teneri_4ff430_1976_canary_sighting_8204e7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6505,
+      "phases": {
+        "preparation": 0.0471,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.017,
+        "content_cleanup_final": 0.016,
+        "media_svg": 0.1022,
+        "youtube": 0.0091,
+        "content_assembly": 0.3634,
+        "monetization": 0.0626,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Santa_Cruz_de_Teneri_4ff430_spanish_air_force_fi_36b181",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6293,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0073,
+        "content_cleanup_final": 0.0116,
+        "media_svg": 0.0985,
+        "youtube": 0.0094,
+        "content_assembly": 0.3705,
+        "monetization": 0.0542,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Santa_Cruz_de_Teneri_4ff430_poseidon_missile_the_56fa75",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8439,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0056,
+        "content_cleanup_final": 0.016,
+        "media_svg": 0.1019,
+        "youtube": 0.012,
+        "content_assembly": 0.3801,
+        "monetization": 1.2514,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Toledo_1e860c",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9192,
+      "phases": {
+        "preparation": 0.0543,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0238,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.145,
+        "youtube": 0.0182,
+        "content_assembly": 0.546,
+        "monetization": 0.0531,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "Toledo_1e860c_1968_radar_balloon_d0acf0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.673,
+      "phases": {
+        "preparation": 0.0443,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0034,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.1076,
+        "youtube": 0.0115,
+        "content_assembly": 0.381,
+        "monetization": 0.0775,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "Teruel_fc2989_castellote_road_sigh_457ebd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0308,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0031,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.1159,
+        "youtube": 0.0126,
+        "content_assembly": 0.3924,
+        "monetization": 4.4109,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Toledo_1e860c_local_sighting_folkl_e733a2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6704,
+      "phases": {
+        "preparation": 0.046,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0024,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.1026,
+        "youtube": 0.0137,
+        "content_assembly": 0.3865,
+        "monetization": 0.0694,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Toledo_1e860c_modern_misidentifica_2492a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7015,
+      "phases": {
+        "preparation": 0.0438,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.1057,
+        "youtube": 0.0165,
+        "content_assembly": 0.3997,
+        "monetization": 0.0612,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Toledo_1e860c_official_files_toled_c26c9d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6954,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0025,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.1088,
+        "youtube": 0.0114,
+        "content_assembly": 0.3674,
+        "monetization": 0.1129,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Valencia_6459e8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8913,
+      "phases": {
+        "preparation": 0.0555,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.1436,
+        "youtube": 0.0142,
+        "content_assembly": 0.5297,
+        "monetization": 0.0585,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Valencia_6459e8_official_ufo_files_98c8b0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7579,
+      "phases": {
+        "preparation": 0.0449,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0055,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.1385,
+        "youtube": 0.0129,
+        "content_assembly": 0.4351,
+        "monetization": 0.0707,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Valencia_6459e8_conventional_explana_813c05",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6839,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0024,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.1454,
+        "youtube": 0.0121,
+        "content_assembly": 0.3714,
+        "monetization": 0.0587,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Valencia_6459e8_manises_incident_228ffb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8239,
+      "phases": {
+        "preparation": 0.0462,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0165,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.1049,
+        "youtube": 0.0082,
+        "content_assembly": 0.3679,
+        "monetization": 1.2371,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Valencia_6459e8_pilot_sightings_befo_6a0000",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6299,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0019,
+        "content_cleanup_final": 0.0106,
+        "media_svg": 0.1036,
+        "youtube": 0.0115,
+        "content_assembly": 0.3683,
+        "monetization": 0.0597,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "Valladolid_d2ebea",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8804,
+      "phases": {
+        "preparation": 0.0553,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0193,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.1038,
+        "youtube": 0.013,
+        "content_assembly": 0.5436,
+        "monetization": 0.0639,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Santa_Cruz_de_Teneri_4ff430_tenerife_local_cases_d66794",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.7559,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0022,
+        "content_cleanup_final": 0.0127,
+        "media_svg": 0.0966,
+        "youtube": 0.0094,
+        "content_assembly": 0.369,
+        "monetization": 6.1898,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Valladolid_d2ebea_pedrosa_tordesillas_c05f97",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.755,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0155,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.1551,
+        "youtube": 0.0114,
+        "content_assembly": 0.3888,
+        "monetization": 0.0837,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Valladolid_d2ebea_valladolid_1965_mass_4258dd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6681,
+      "phases": {
+        "preparation": 0.0475,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0041,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.1076,
+        "youtube": 0.0116,
+        "content_assembly": 0.3752,
+        "monetization": 0.0702,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Alava_ef490e",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9183,
+      "phases": {
+        "preparation": 0.0608,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0215,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.1503,
+        "youtube": 0.009,
+        "content_assembly": 0.5467,
+        "monetization": 0.0634,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Valladolid_d2ebea_villalon_official_fi_5ba176",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9041,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0131,
+        "content_cleanup_final": 0.0139,
+        "media_svg": 0.1136,
+        "youtube": 0.0117,
+        "content_assembly": 0.3746,
+        "monetization": 1.3007,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Alava_ef490e_official_files_gap_5fb694",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6604,
+      "phases": {
+        "preparation": 0.044,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.005,
+        "content_cleanup_final": 0.0059,
+        "media_svg": 0.143,
+        "youtube": 0.0089,
+        "content_assembly": 0.342,
+        "monetization": 0.086,
+        "quality_write": 0.0255
+      }
+    },
+    {
+      "base_name": "Alava_ef490e_audikana_basque_ligh_8938f5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7286,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0175,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.1477,
+        "youtube": 0.0086,
+        "content_assembly": 0.3855,
+        "monetization": 0.0752,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alava_ef490e_trevino_photo_ochate_17daad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6404,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0024,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.0957,
+        "youtube": 0.01,
+        "content_assembly": 0.3757,
+        "monetization": 0.0625,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Zaragoza_2782d8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8829,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0181,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.225,
+        "youtube": 0.0104,
+        "content_assembly": 0.5051,
+        "monetization": 0.0601,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "Valladolid_d2ebea_villanubla_1984_airb_7f91af",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5057,
+      "phases": {
+        "preparation": 0.0448,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0061,
+        "content_cleanup_final": 0.029,
+        "media_svg": 0.1079,
+        "youtube": 0.0127,
+        "content_assembly": 0.4122,
+        "monetization": 2.8573,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Zaragoza_2782d8_barcelona_zaragoza_f_99d6a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6576,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0038,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.1638,
+        "youtube": 0.011,
+        "content_assembly": 0.3672,
+        "monetization": 0.0669,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Alava_ef490e_vitoria_airport_ligh_e6ab4b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0245,
+      "phases": {
+        "preparation": 0.0471,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0089,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.1095,
+        "youtube": 0.0077,
+        "content_assembly": 0.3914,
+        "monetization": 1.3945,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Zaragoza_2782d8_malanquilla_ufo_memo_e6b452",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7876,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0155,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.2671,
+        "youtube": 0.0116,
+        "content_assembly": 0.3802,
+        "monetization": 0.0559,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Zaragoza_2782d8_march_1980_radar_vis_aa3283",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7467,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.003,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.2306,
+        "youtube": 0.0103,
+        "content_assembly": 0.3989,
+        "monetization": 0.0465,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Zaragoza_2782d8_spanish_air_force_fi_36b181",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7906,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0159,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.2894,
+        "youtube": 0.0104,
+        "content_assembly": 0.3757,
+        "monetization": 0.0449,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8126,
+      "phases": {
+        "preparation": 0.0,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0205,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.1432,
+        "youtube": 0.0095,
+        "content_assembly": 0.5262,
+        "monetization": 0.049,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871_zamora_ufo_archives_9698d0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9034,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0179,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.2951,
+        "youtube": 0.0154,
+        "content_assembly": 0.4162,
+        "monetization": 0.0994,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871_zamora_triangle_sigh_a82c85",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6965,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0056,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.1607,
+        "youtube": 0.0154,
+        "content_assembly": 0.399,
+        "monetization": 1.0629,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871_alcanices_landing_st_7d9c46",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7477,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.017,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.1578,
+        "youtube": 0.0127,
+        "content_assembly": 0.3899,
+        "monetization": 2.1122,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Zamora_6f7871_granja_humanoid_clai_7c82d4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.781,
+      "phases": {
+        "preparation": 0.0,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0043,
+        "content_cleanup_final": 0.0124,
+        "media_svg": 0.2752,
+        "youtube": 0.0101,
+        "content_assembly": 0.3778,
+        "monetization": 2.0693,
+        "quality_write": 0.0316
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 260,
+    "reused_pages": 0,
+    "rebuilt_pages": 260,
+    "error_pages": 0,
+    "page_work_wall_seconds": 146.9797,
+    "rebuilt_pages_per_minute": 106.1371,
+    "queued_rebuild_pages_per_minute": 106.1371,
+    "apparent_page_work_speedup": 2.8287,
+    "process_worker_diagnostics": {
+      "completed_pages": 260,
+      "successful_pages": 260,
+      "failed_pages": 0,
+      "worker_summary": {
+        "95672": {
+          "pages": 90,
+          "successes": 90,
+          "failures": 0,
+          "total_worker_seconds": 141.496,
+          "max_worker_seconds": 61.6186,
+          "last_base_name": "Zamora_6f7871_alcanices_landing_st_7d9c46"
+        },
+        "83228": {
+          "pages": 79,
+          "successes": 79,
+          "failures": 0,
+          "total_worker_seconds": 139.6333,
+          "max_worker_seconds": 60.0228,
+          "last_base_name": "Zamora_6f7871_granja_humanoid_clai_7c82d4"
+        },
+        "100936": {
+          "pages": 91,
+          "successes": 91,
+          "failures": 0,
+          "total_worker_seconds": 143.8958,
+          "max_worker_seconds": 64.7697,
+          "last_base_name": "Zamora_6f7871_zamora_triangle_sigh_a82c85"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Alicante_46e2a1",
+          "level": 1,
+          "success": true,
+          "worker_pid": 100936,
+          "worker_duration_seconds": 64.7697,
+          "total_seconds": 64.7348,
+          "worker_started_at_utc": "2026-07-02T21:18:16.905612Z",
+          "worker_finished_at_utc": "2026-07-02T21:19:21.640470Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alicante_46e2a1_benidorm_1986_6ae331",
+          "level": 2,
+          "success": true,
+          "worker_pid": 95672,
+          "worker_duration_seconds": 61.6186,
+          "total_seconds": 61.5826,
+          "worker_started_at_utc": "2026-07-02T21:18:19.713105Z",
+          "worker_finished_at_utc": "2026-07-02T21:19:21.295796Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alicante_46e2a1_official_files_c31821",
+          "level": 2,
+          "success": true,
+          "worker_pid": 83228,
+          "worker_duration_seconds": 60.0228,
+          "total_seconds": 59.9866,
+          "worker_started_at_utc": "2026-07-02T21:18:21.646739Z",
+          "worker_finished_at_utc": "2026-07-02T21:19:21.633420Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Cantabria_c90a8d_sighting_clusters_358af4",
+          "level": 2,
+          "success": true,
+          "worker_pid": 83228,
+          "worker_duration_seconds": 7.8211,
+          "total_seconds": 7.7848,
+          "worker_started_at_utc": "2026-07-02T21:20:12.558863Z",
+          "worker_finished_at_utc": "2026-07-02T21:20:20.343723Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Santa_Cruz_de_Teneri_4ff430_tenerife_local_cases_d66794",
+          "level": 2,
+          "success": true,
+          "worker_pid": 95672,
+          "worker_duration_seconds": 6.7914,
+          "total_seconds": 6.7559,
+          "worker_started_at_utc": "2026-07-02T21:20:26.134710Z",
+          "worker_finished_at_utc": "2026-07-02T21:20:32.890662Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Teruel_fc2989_castellote_road_sigh_457ebd",
+          "level": 2,
+          "success": true,
+          "worker_pid": 83228,
+          "worker_duration_seconds": 5.0667,
+          "total_seconds": 5.0308,
+          "worker_started_at_utc": "2026-07-02T21:20:23.648489Z",
+          "worker_finished_at_utc": "2026-07-02T21:20:28.679296Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Pontevedra_0aef83_vigo_pilot_sighting_d745a4",
+          "level": 2,
+          "success": true,
+          "worker_pid": 100936,
+          "worker_duration_seconds": 4.9267,
+          "total_seconds": 4.8911,
+          "worker_started_at_utc": "2026-07-02T21:20:08.258358Z",
+          "worker_finished_at_utc": "2026-07-02T21:20:13.149537Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Pontevedra_0aef83_vigo_coast_cluster_5971ed",
+          "level": 2,
+          "success": true,
+          "worker_pid": 83228,
+          "worker_duration_seconds": 3.945,
+          "total_seconds": 3.9099,
+          "worker_started_at_utc": "2026-07-02T21:20:07.868135Z",
+          "worker_finished_at_utc": "2026-07-02T21:20:11.778042Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Valladolid_d2ebea_villanubla_1984_airb_7f91af",
+          "level": 2,
+          "success": true,
+          "worker_pid": 83228,
+          "worker_duration_seconds": 3.5415,
+          "total_seconds": 3.5057,
+          "worker_started_at_utc": "2026-07-02T21:20:33.349589Z",
+          "worker_finished_at_utc": "2026-07-02T21:20:36.855343Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Zamora_6f7871_granja_humanoid_clai_7c82d4",
+          "level": 2,
+          "success": true,
+          "worker_pid": 83228,
+          "worker_duration_seconds": 2.8148,
+          "total_seconds": 2.781,
+          "worker_started_at_utc": "2026-07-02T21:20:38.567955Z",
+          "worker_finished_at_utc": "2026-07-02T21:20:41.348955Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

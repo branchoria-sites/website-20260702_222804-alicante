@@ -1,0 +1,2016 @@
+{
+  "kind": "spain-provinces",
+  "mapLayout": "spain-provinces",
+  "mapFit": "linked-bounds",
+  "itemType": "province",
+  "mapAsset": "spain-provinces.svg",
+  "dataAsset": "spain-provinces.json",
+  "mapLabel": "UFO and UAP Spanish provinces map",
+  "fallbackSummary": "Open this Spanish province file from the map.",
+  "panelCopy": "Use the map to jump into a Spanish province file, or browse the full province list below.",
+  "items": [
+    {
+      "id": "ES-SG",
+      "iso": "ES-SG",
+      "province": "Segovia",
+      "mapName": "Segovia",
+      "label": "Segovia",
+      "mapAliases": [
+        "segovia",
+        "es sg",
+        "sg"
+      ],
+      "title": "Did Segovia Ever Have a UFO Case?",
+      "summary": "Segovia is not one of Spain’s great documented UFO provinces.",
+      "url": "did-segovia-ever-have-a-ufo-case/",
+      "image": "assets/images/Segovia_11f113-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SG"
+    },
+    {
+      "id": "ES-P",
+      "iso": "ES-P",
+      "province": "Palencia",
+      "mapName": "Palencia",
+      "label": "Palencia",
+      "mapAliases": [
+        "palencia",
+        "es p",
+        "p"
+      ],
+      "title": "What Did Palencia Really See in 1968?",
+      "summary": "Palencia’s strongest place in Spain’s declassified UFO record is not a dramatic landing tale or a famous pilot encounter, but a short, awkwardly labelled...",
+      "url": "what-did-palencia-really-see-in-1968/",
+      "image": "assets/images/Palencia_b6f02b-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "P"
+    },
+    {
+      "id": "ES-SE",
+      "iso": "ES-SE",
+      "province": "Seville",
+      "mapName": "Seville",
+      "label": "Seville",
+      "mapAliases": [
+        "sevilla",
+        "seville",
+        "es se",
+        "se"
+      ],
+      "title": "What Did Seville's UFO Files Really Show?",
+      "summary": "Seville’s UFO history is not built around one famous “crashed saucer” legend, but around a small set of documented reports that passed through Spain’s...",
+      "url": "what-did-sevilles-ufo-files-really-show/",
+      "image": "assets/images/Seville_41f368-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SE"
+    },
+    {
+      "id": "ES-C",
+      "iso": "ES-C",
+      "province": "A Coruna",
+      "mapName": "A Coruna",
+      "label": "A Coruna",
+      "mapAliases": [
+        "la coruna",
+        "a coruna",
+        "es c",
+        "c"
+      ],
+      "title": "What Really Happened In A Coruna's UFO Files?",
+      "summary": "A Coruña’s UFO history is not a long parade of proven mysteries.",
+      "url": "what-really-happened-in-a-corunas-ufo/",
+      "image": "assets/images/A_Coruna_c18697-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "C"
+    },
+    {
+      "id": "ES-AL",
+      "iso": "ES-AL",
+      "province": "Almeria",
+      "mapName": "Almeria",
+      "label": "Almeria",
+      "mapAliases": [
+        "almeria",
+        "es al",
+        "al"
+      ],
+      "title": "What Really Happened in Almeria's UFO Stories?",
+      "summary": "Almería’s UFO history is not built around one famous, still-unresolved encounter.",
+      "url": "what-really-happened-in-almerias-ufo/",
+      "image": "assets/images/Almeria_5a5611-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "AL"
+    },
+    {
+      "id": "ES-AV",
+      "iso": "ES-AV",
+      "province": "Avila",
+      "mapName": "Avila",
+      "label": "Avila",
+      "mapAliases": [
+        "avila",
+        "es av",
+        "av"
+      ],
+      "title": "What Really Happened in Avila's UFO Stories?",
+      "summary": "Avila’s UFO history is not a catalogue of famous, officially confirmed mysteries.",
+      "url": "what-really-happened-in-avilas-ufo/",
+      "image": "assets/images/Avila_9a1863-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "AV"
+    },
+    {
+      "id": "ES-B",
+      "iso": "ES-B",
+      "province": "Barcelona",
+      "mapName": "Barcelona",
+      "label": "Barcelona",
+      "mapAliases": [
+        "barcelona",
+        "es b",
+        "b"
+      ],
+      "title": "What Really Happened in Barcelona's UFO Files?",
+      "summary": "Barcelona’s UFO history is not built around one spectacular “proof” case.",
+      "url": "what-really-happened-in-barcelonas-ufo/",
+      "image": "assets/images/Barcelona_122a41-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "B"
+    },
+    {
+      "id": "ES-BU",
+      "iso": "ES-BU",
+      "province": "Burgos",
+      "mapName": "Burgos",
+      "label": "Burgos",
+      "mapAliases": [
+        "burgos",
+        "es bu",
+        "bu"
+      ],
+      "title": "What Really Happened in Burgos's UFO Files?",
+      "summary": "Burgos has one of the more unusual provincial UFO records in Spain because its best-known cases are not just late-night rumours.",
+      "url": "what-really-happened-in-burgoss-ufo/",
+      "image": "assets/images/Burgos_199e01-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "BU"
+    },
+    {
+      "id": "ES-CC",
+      "iso": "ES-CC",
+      "province": "Caceres",
+      "mapName": "Caceres",
+      "label": "Caceres",
+      "mapAliases": [
+        "caceres",
+        "es cc",
+        "cc"
+      ],
+      "title": "What Really Happened in Caceres Skies?",
+      "summary": "Cáceres has a real place in Spanish UFO history, but it is not a province with one single, watertight “classic case”.",
+      "url": "what-really-happened-in-caceres-skies/",
+      "image": "assets/images/Caceres_23e6f5-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CC"
+    },
+    {
+      "id": "ES-CA",
+      "iso": "ES-CA",
+      "province": "Cadiz",
+      "mapName": "Cadiz",
+      "label": "Cadiz",
+      "mapAliases": [
+        "cadiz",
+        "es ca",
+        "ca"
+      ],
+      "title": "What Really Happened in Cadiz's UFO Record?",
+      "summary": "Cádiz has a thinner but more revealing UFO record than Spain’s better-known cases in the Canary Islands, Valencia or Badajoz.",
+      "url": "what-really-happened-in-cadizs-ufo/",
+      "image": "assets/images/Cadiz_bf7148-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CA"
+    },
+    {
+      "id": "ES-S",
+      "iso": "ES-S",
+      "province": "Cantabria",
+      "mapName": "Cantabria",
+      "label": "Cantabria",
+      "mapAliases": [
+        "cantabria",
+        "es s",
+        "s"
+      ],
+      "title": "What Really Happened in Cantabria's UFO Stories?",
+      "summary": "Cantabria has a quieter UFO history than better-known Spanish hotspots such as the Canary Islands, Madrid or Galicia, but it has a distinctive local pattern:...",
+      "url": "what-really-happened-in-cantabrias-ufo/",
+      "image": "assets/images/Cantabria_c90a8d-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "S"
+    },
+    {
+      "id": "ES-CR",
+      "iso": "ES-CR",
+      "province": "Ciudad Real",
+      "mapName": "Ciudad Real",
+      "label": "Ciudad Real",
+      "mapAliases": [
+        "ciudad real",
+        "es cr",
+        "cr"
+      ],
+      "title": "What Really Happened in Ciudad Real's UFO Stories?",
+      "summary": "Ciudad Real is not one of Spain’s headline UFO provinces in the way that the Canary Islands, Cádiz, Valencia or Badajoz are, but it has a distinctive place...",
+      "url": "what-really-happened-in-ciudad-reals-ufo/",
+      "image": "assets/images/Ciudad_Real_1bcbd0-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CR"
+    },
+    {
+      "id": "ES-CU",
+      "iso": "ES-CU",
+      "province": "Cuenca",
+      "mapName": "Cuenca",
+      "label": "Cuenca",
+      "mapAliases": [
+        "cuenca",
+        "es cu",
+        "cu"
+      ],
+      "title": "What Really Happened in Cuenca's UFO Cases?",
+      "summary": "Cuenca’s UFO history is not built around a single famous “crash” or a dramatic military confrontation.",
+      "url": "what-really-happened-in-cuencas-ufo/",
+      "image": "assets/images/Cuenca_18bceb-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CU"
+    },
+    {
+      "id": "ES-SS",
+      "iso": "ES-SS",
+      "province": "Gipuzkoa",
+      "mapName": "Gipuzkoa",
+      "label": "Gipuzkoa",
+      "mapAliases": [
+        "guipuzcoa",
+        "gipuzkoa",
+        "es ss",
+        "ss"
+      ],
+      "title": "What Really Happened in Gipuzkoa's UFO Stories?",
+      "summary": "Gipuzkoa does not have one neat, officially unresolved “classic UFO case” that defines the province.",
+      "url": "what-really-happened-in-gipuzkoas-ufo/",
+      "image": "assets/images/Gipuzkoa_c8b477-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SS"
+    },
+    {
+      "id": "ES-GI",
+      "iso": "ES-GI",
+      "province": "Girona",
+      "mapName": "Girona",
+      "label": "Girona",
+      "mapAliases": [
+        "girona",
+        "es gi",
+        "gi"
+      ],
+      "title": "What Really Happened in Girona's UFO Files?",
+      "summary": "Girona’s UFO history is not built around one world-famous “flying saucer” legend.",
+      "url": "what-really-happened-in-gironas-ufo/",
+      "image": "assets/images/Girona_1912ef-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GI"
+    },
+    {
+      "id": "ES-GR",
+      "iso": "ES-GR",
+      "province": "Granada",
+      "mapName": "Granada",
+      "label": "Granada",
+      "mapAliases": [
+        "granada",
+        "es gr",
+        "gr"
+      ],
+      "title": "What Really Happened in Granada's UFO Files?",
+      "summary": "Granada’s documented UFO history is narrower than its folklore suggests.",
+      "url": "what-really-happened-in-granadas-ufo/",
+      "image": "assets/images/Granada_3f7db9-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GR"
+    },
+    {
+      "id": "ES-GU",
+      "iso": "ES-GU",
+      "province": "Guadalajara",
+      "mapName": "Guadalajara",
+      "label": "Guadalajara",
+      "mapAliases": [
+        "guadalajara",
+        "es gu",
+        "gu"
+      ],
+      "title": "What Really Happened in Guadalajara's UFO Stories?",
+      "summary": "Guadalajara’s UFO history is not a catalogue of proven alien encounters.",
+      "url": "what-really-happened-in-guadalajaras-ufo/",
+      "image": "assets/images/Guadalajara_2d19b1-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GU"
+    },
+    {
+      "id": "ES-HU",
+      "iso": "ES-HU",
+      "province": "Huesca",
+      "mapName": "Huesca",
+      "label": "Huesca",
+      "mapAliases": [
+        "huesca",
+        "es hu",
+        "hu"
+      ],
+      "title": "What Really Happened in Huesca's UFO Stories?",
+      "summary": "Huesca’s UFO history is not a long catalogue of strong, unresolved cases.",
+      "url": "what-really-happened-in-huescas-ufo/",
+      "image": "assets/images/Huesca_59c1aa-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "HU"
+    },
+    {
+      "id": "ES-J",
+      "iso": "ES-J",
+      "province": "Jaen",
+      "mapName": "Jaen",
+      "label": "Jaen",
+      "mapAliases": [
+        "es j",
+        "jaen",
+        "j"
+      ],
+      "title": "What Really Happened in Jaen's UFO Stories?",
+      "summary": "Jaén has a modest but unusually colourful place in Spanish UFO history.",
+      "url": "what-really-happened-in-jaens-ufo/",
+      "image": "assets/images/Jaen_6daea8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "J"
+    },
+    {
+      "id": "ES-LO",
+      "iso": "ES-LO",
+      "province": "La Rioja",
+      "mapName": "La Rioja",
+      "label": "La Rioja",
+      "mapAliases": [
+        "la rioja",
+        "es lo",
+        "lo"
+      ],
+      "title": "What Really Happened in La Rioja's UFO Stories?",
+      "summary": "La Rioja’s UFO history is unusually compact. Unlike Spanish provinces with long military case files or repeated radar-linked incidents, the public record for...",
+      "url": "what-really-happened-in-la-riojas-ufo/",
+      "image": "assets/images/La_Rioja_a6a1e6-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "LO"
+    },
+    {
+      "id": "ES-LE",
+      "iso": "ES-LE",
+      "province": "Leon",
+      "mapName": "Leon",
+      "label": "Leon",
+      "mapAliases": [
+        "es le",
+        "leon",
+        "le"
+      ],
+      "title": "What Really Happened in Leon's UFO Reports?",
+      "summary": "León’s UFO history is not built around one spectacular crash story or a famous national incident.",
+      "url": "what-really-happened-in-leons-ufo/",
+      "image": "assets/images/Leon_8b001a-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "LE"
+    },
+    {
+      "id": "ES-L",
+      "iso": "ES-L",
+      "province": "Lleida",
+      "mapName": "Lleida",
+      "label": "Lleida",
+      "mapAliases": [
+        "lleida",
+        "es l",
+        "l"
+      ],
+      "title": "What Really Happened in Lleida's UFO Files?",
+      "summary": "Lleida’s place in Spanish UFO history is unusually compact: the province appears in three Ministry of Defence UFO files, dated 17 May 1968, 23 February 1971...",
+      "url": "what-really-happened-in-lleidas-ufo/",
+      "image": "assets/images/Lleida_a3bb84-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "L"
+    },
+    {
+      "id": "ES-LU",
+      "iso": "ES-LU",
+      "province": "Lugo",
+      "mapName": "Lugo",
+      "label": "Lugo",
+      "mapAliases": [
+        "es lu",
+        "lugo",
+        "lu"
+      ],
+      "title": "What Really Happened in Lugo's UFO Record?",
+      "summary": "Lugo’s UFO history is not built around one neat “classic case”.",
+      "url": "what-really-happened-in-lugos-ufo-record/",
+      "image": "assets/images/Lugo_3c0a46-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "LU"
+    },
+    {
+      "id": "ES-MA",
+      "iso": "ES-MA",
+      "province": "Malaga",
+      "mapName": "Malaga",
+      "label": "Malaga",
+      "mapAliases": [
+        "malaga",
+        "es ma",
+        "ma"
+      ],
+      "title": "What Really Happened in Malaga's UFO Years?",
+      "summary": "Málaga’s UFO history is not a story of a single conclusive mystery.",
+      "url": "what-really-happened-in-malagas-ufo/",
+      "image": "assets/images/Malaga_7b094a-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "MA"
+    },
+    {
+      "id": "ES-ML",
+      "iso": "ES-ML",
+      "province": "Melilla",
+      "mapName": "Melilla",
+      "label": "Melilla",
+      "mapAliases": [
+        "melilla",
+        "es ml",
+        "ml"
+      ],
+      "title": "What Really Happened in Melilla's UFO Stories?",
+      "summary": "Melilla has a small but intriguing place in Spanish UFO history.",
+      "url": "what-really-happened-in-melillas-ufo/",
+      "image": "assets/images/Melilla_c01d8f-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "ML"
+    },
+    {
+      "id": "ES-OR",
+      "iso": "ES-OR",
+      "province": "Ourense",
+      "mapName": "Ourense",
+      "label": "Ourense",
+      "mapAliases": [
+        "ourense",
+        "orense",
+        "es or",
+        "or"
+      ],
+      "title": "What Really Happened in Ourense's UFO Stories?",
+      "summary": "Ourense has a modest but revealing place in Galician UFO history.",
+      "url": "what-really-happened-in-ourenses-ufo/",
+      "image": "assets/images/Ourense_35c272-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "OR"
+    },
+    {
+      "id": "ES-PO",
+      "iso": "ES-PO",
+      "province": "Pontevedra",
+      "mapName": "Pontevedra",
+      "label": "Pontevedra",
+      "mapAliases": [
+        "pontevedra",
+        "es po",
+        "po"
+      ],
+      "title": "What Really Happened in Pontevedra's UFO Stories?",
+      "summary": "Pontevedra’s UFO history is not built around a large official case file in the way that some Spanish provinces are.",
+      "url": "what-really-happened-in-pontevedras-ufo/",
+      "image": "assets/images/Pontevedra_0aef83-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "PO"
+    },
+    {
+      "id": "ES-SA",
+      "iso": "ES-SA",
+      "province": "Salamanca",
+      "mapName": "Salamanca",
+      "label": "Salamanca",
+      "mapAliases": [
+        "salamanca",
+        "es sa",
+        "sa"
+      ],
+      "title": "What Really Happened in Salamanca's UFO Stories?",
+      "summary": "Salamanca’s UFO history is not built around a long list of official military files.",
+      "url": "what-really-happened-in-salamancas-ufo/",
+      "image": "assets/images/Salamanca_973fa7-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SA"
+    },
+    {
+      "id": "ES-SO",
+      "iso": "ES-SO",
+      "province": "Soria",
+      "mapName": "Soria",
+      "label": "Soria",
+      "mapAliases": [
+        "es so",
+        "soria",
+        "so"
+      ],
+      "title": "What Really Happened in Soria's UFO Stories?",
+      "summary": "Soria’s UFO history is not crowded with dozens of well-documented cases, but it does contain two stories that matter in Spanish UFO culture: the Barahona...",
+      "url": "what-really-happened-in-sorias-ufo/",
+      "image": "assets/images/Soria_198769-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SO"
+    },
+    {
+      "id": "ES-TE",
+      "iso": "ES-TE",
+      "province": "Teruel",
+      "mapName": "Teruel",
+      "label": "Teruel",
+      "mapAliases": [
+        "teruel",
+        "es te",
+        "te"
+      ],
+      "title": "What Really Happened in Teruel's UFO Skies?",
+      "summary": "Teruel’s UFO history is not built around one famous, province-defining mystery.",
+      "url": "what-really-happened-in-teruels-ufo/",
+      "image": "assets/images/Teruel_fc2989-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "TE"
+    },
+    {
+      "id": "ES-TO",
+      "iso": "ES-TO",
+      "province": "Toledo",
+      "mapName": "Toledo",
+      "label": "Toledo",
+      "mapAliases": [
+        "toledo",
+        "es to",
+        "to"
+      ],
+      "title": "What Really Happened in Toledo's UFO Files?",
+      "summary": "Toledo’s UFO history is real in the archival sense, but modest in evidential strength.",
+      "url": "what-really-happened-in-toledos-ufo/",
+      "image": "assets/images/Toledo_1e860c-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "TO"
+    },
+    {
+      "id": "ES-ZA",
+      "iso": "ES-ZA",
+      "province": "Zamora",
+      "mapName": "Zamora",
+      "label": "Zamora",
+      "mapAliases": [
+        "zamora",
+        "es za",
+        "za"
+      ],
+      "title": "What Really Happened in Zamora's UFO Stories?",
+      "summary": "Zamora’s UFO history is not built around one nationally famous, military-documented incident.",
+      "url": "what-really-happened-in-zamoras-ufo/",
+      "image": "assets/images/Zamora_6f7871-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "ZA"
+    },
+    {
+      "id": "ES-Z",
+      "iso": "ES-Z",
+      "province": "Zaragoza",
+      "mapName": "Zaragoza",
+      "label": "Zaragoza",
+      "mapAliases": [
+        "zaragoza",
+        "es z",
+        "z"
+      ],
+      "title": "What Really Happened in Zaragoza's UFO Files?",
+      "summary": "Zaragoza’s UFO history is not a story of one spectacular, proven encounter.",
+      "url": "what-really-happened-in-zaragozas-ufo/",
+      "image": "assets/images/Zaragoza_2782d8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "Z"
+    },
+    {
+      "id": "ES-O",
+      "iso": "ES-O",
+      "province": "Asturias",
+      "mapName": "Asturias",
+      "label": "Asturias",
+      "mapAliases": [
+        "asturias",
+        "es o",
+        "o"
+      ],
+      "title": "What Really Happened Over Asturias?",
+      "summary": "Asturias has one firmly documented place in Spain’s official UFO record: the Gijón sighting of 26 June 1969, preserved as file 690626 in the Spanish Ministry...",
+      "url": "what-really-happened-over-asturias/",
+      "image": "assets/images/Asturias_60aedd-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "O"
+    },
+    {
+      "id": "ES-CS",
+      "iso": "ES-CS",
+      "province": "Castellon",
+      "mapName": "Castellon",
+      "label": "Castellon",
+      "mapAliases": [
+        "castellon",
+        "castello",
+        "es cs",
+        "cs"
+      ],
+      "title": "What Really Happened Over Castellon?",
+      "summary": "Castellon’s UFO history is not built around a long list of well-documented close encounters.",
+      "url": "what-really-happened-over-castellon/",
+      "image": "assets/images/Castellon_b6b2a8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CS"
+    },
+    {
+      "id": "ES-CO",
+      "iso": "ES-CO",
+      "province": "Cordoba",
+      "mapName": "Cordoba",
+      "label": "Cordoba",
+      "mapAliases": [
+        "cordoba",
+        "es co",
+        "co"
+      ],
+      "title": "What Really Happened Over Cordoba?",
+      "summary": "Córdoba has a thinner but more revealing UFO record than some neighbouring Andalusian provinces.",
+      "url": "what-really-happened-over-cordoba/",
+      "image": "assets/images/Cordoba_c65d18-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CO"
+    },
+    {
+      "id": "ES-GC",
+      "iso": "ES-GC",
+      "province": "Las Palmas",
+      "mapName": "Las Palmas",
+      "label": "Las Palmas",
+      "mapAliases": [
+        "las palmas",
+        "es gc",
+        "gc"
+      ],
+      "title": "What Really Happened Over Las Palmas?",
+      "summary": "Las Palmas matters in Spanish UFO history because it sits at the centre of the Canary Islands’ best documented sighting cluster: a run of spectacular...",
+      "url": "what-really-happened-over-las-palmas/",
+      "image": "assets/images/Las_Palmas_c2c576-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GC"
+    },
+    {
+      "id": "ES-M",
+      "iso": "ES-M",
+      "province": "Madrid",
+      "mapName": "Madrid",
+      "label": "Madrid",
+      "mapAliases": [
+        "madrid",
+        "es m",
+        "m"
+      ],
+      "title": "What Really Happened Over Madrid?",
+      "summary": "Madrid’s UFO history is not built around one single, decisive “classic case”.",
+      "url": "what-really-happened-over-madrid/",
+      "image": "assets/images/Madrid_7a2191-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "M"
+    },
+    {
+      "id": "ES-MU",
+      "iso": "ES-MU",
+      "province": "Murcia",
+      "mapName": "Murcia",
+      "label": "Murcia",
+      "mapAliases": [
+        "murcia",
+        "es mu",
+        "mu"
+      ],
+      "title": "What Really Happened Over Murcia's Skies?",
+      "summary": "Murcia has a stronger place in Spanish UFO history than its quiet reputation might suggest.",
+      "url": "what-really-happened-over-murcias-skies/",
+      "image": "assets/images/Murcia_fed56b-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "MU"
+    },
+    {
+      "id": "ES-NA",
+      "iso": "ES-NA",
+      "province": "Navarre",
+      "mapName": "Navarre",
+      "label": "Navarre",
+      "mapAliases": [
+        "navarra",
+        "navarre",
+        "es na",
+        "na"
+      ],
+      "title": "What Really Happened Over Navarre's Skies?",
+      "summary": "Navarre’s UFO history is unusually concentrated.",
+      "url": "what-really-happened-over-navarres-skies/",
+      "image": "assets/images/Navarre_d04319-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "NA"
+    },
+    {
+      "id": "ES-T",
+      "iso": "ES-T",
+      "province": "Tarragona",
+      "mapName": "Tarragona",
+      "label": "Tarragona",
+      "mapAliases": [
+        "tarragona",
+        "es t",
+        "t"
+      ],
+      "title": "What Really Happened Over Tarragona's Skies?",
+      "summary": "Tarragona’s UFO history is not a catalogue of proven extraordinary events.",
+      "url": "what-really-happened-over-tarragonas/",
+      "image": "assets/images/Tarragona_3ac142-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "T"
+    },
+    {
+      "id": "ES-TF",
+      "iso": "ES-TF",
+      "province": "Santa Cruz de Tenerife",
+      "mapName": "Santa Cruz de Tenerife",
+      "label": "Santa Cruz de Tenerife",
+      "mapAliases": [
+        "santa cruz de tenerife",
+        "es tf",
+        "tf"
+      ],
+      "title": "What Really Happened Over Tenerife's Skies?",
+      "summary": "Santa Cruz de Tenerife matters in Spanish UFO history because Tenerife and its neighbouring western islands sit inside one of Spain’s best-documented UFO...",
+      "url": "santa-cruz-de-tenerife/",
+      "image": "assets/images/Santa_Cruz_de_Teneri_4ff430-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "TF"
+    },
+    {
+      "id": "ES-PM",
+      "iso": "ES-PM",
+      "province": "Balearic Islands",
+      "mapName": "Balearic Islands",
+      "label": "Balearic Islands",
+      "mapAliases": [
+        "balearic islands",
+        "es pm",
+        "pm"
+      ],
+      "title": "What Really Happened Over the Balearics?",
+      "summary": "The Balearic Islands have one of Spain’s more interesting regional UFO histories, not because the evidence proves exotic craft, but because several cases...",
+      "url": "balearic-islands/",
+      "image": "assets/images/Balearic_Islands_d9fdd5-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "PM"
+    },
+    {
+      "id": "ES-VA",
+      "iso": "ES-VA",
+      "province": "Valladolid",
+      "mapName": "Valladolid",
+      "label": "Valladolid",
+      "mapAliases": [
+        "valladolid",
+        "es va",
+        "va"
+      ],
+      "title": "What Really Happened Over Valladolid?",
+      "summary": "Valladolid’s UFO history is not built around one perfectly documented mystery.",
+      "url": "what-really-happened-over-valladolid/",
+      "image": "assets/images/Valladolid_d2ebea-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "VA"
+    },
+    {
+      "id": "ES-VI",
+      "iso": "ES-VI",
+      "province": "Alava",
+      "mapName": "Alava",
+      "label": "Alava",
+      "mapAliases": [
+        "alava",
+        "araba",
+        "es vi",
+        "vi"
+      ],
+      "title": "Why Alava's UFO Legends Outgrew Their Evidence",
+      "summary": "Álava does not have a large, well-documented UFO record in the way that some Spanish provinces do.",
+      "url": "why-alavas-ufo-legends-outgrew-their/",
+      "image": "assets/images/Alava_ef490e-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "VI"
+    },
+    {
+      "id": "ES-A",
+      "iso": "ES-A",
+      "province": "Alicante",
+      "mapName": "Alicante",
+      "label": "Alicante",
+      "mapAliases": [
+        "alicante",
+        "alacant",
+        "es a",
+        "a"
+      ],
+      "title": "Why Alicante Became a UFO File Hotspot",
+      "summary": "Alicante’s UFO history is not built around one world-famous landing story.",
+      "url": "why-alicante-became-a-ufo-file-hotspot/",
+      "image": "assets/images/Alicante_46e2a1-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "A"
+    },
+    {
+      "id": "ES-BA",
+      "iso": "ES-BA",
+      "province": "Badajoz",
+      "mapName": "Badajoz",
+      "label": "Badajoz",
+      "mapAliases": [
+        "badajoz",
+        "es ba",
+        "ba"
+      ],
+      "title": "Why Badajoz Became A UFO Case Province",
+      "summary": "Badajoz has a modest but unusually well-documented place in Spanish UFO history.",
+      "url": "why-badajoz-became-a-ufo-case-province/",
+      "image": "assets/images/Badajoz_632079-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "BA"
+    },
+    {
+      "id": "ES-CE",
+      "iso": "ES-CE",
+      "province": "Ceuta",
+      "mapName": "Ceuta",
+      "label": "Ceuta",
+      "mapAliases": [
+        "ceuta",
+        "es ce",
+        "ce"
+      ],
+      "title": "Why Do UFO Stories Cluster Around Ceuta?",
+      "summary": "Ceuta has a small but interesting place in Spanish UFO history: not as a province with a famous, well-documented “classic case”, but as a strategic Strait of...",
+      "url": "why-do-ufo-stories-cluster-around-ceuta/",
+      "image": "assets/images/Ceuta_6791a7-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CE"
+    },
+    {
+      "id": "ES-AB",
+      "iso": "ES-AB",
+      "province": "Albacete",
+      "mapName": "Albacete",
+      "label": "Albacete",
+      "mapAliases": [
+        "albacete",
+        "es ab",
+        "ab"
+      ],
+      "title": "Why Does Albacete Matter in Spanish UFO Lore?",
+      "summary": "Albacete’s place in Spanish UFO history is unusual: the province has one very early press-era “flying saucer” story, one strong aviation connection to...",
+      "url": "why-does-albacete-matter-in-spanish-ufo/",
+      "image": "assets/images/Albacete_3f7c9a-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "AB"
+    },
+    {
+      "id": "ES-BI",
+      "iso": "ES-BI",
+      "province": "Biscay",
+      "mapName": "Biscay",
+      "label": "Biscay",
+      "mapAliases": [
+        "bizkaia",
+        "vizcaya",
+        "biscay",
+        "es bi",
+        "bi"
+      ],
+      "title": "Why Gallarta Still Defines Biscay UFOs",
+      "summary": "Biscay’s UFO history is not built around a long list of official cases.",
+      "url": "why-gallarta-still-defines-biscay-ufos/",
+      "image": "assets/images/Biscay_fc6f6b-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "BI"
+    },
+    {
+      "id": "ES-H",
+      "iso": "ES-H",
+      "province": "Huelva",
+      "mapName": "Huelva",
+      "label": "Huelva",
+      "mapAliases": [
+        "huelva",
+        "es h",
+        "h"
+      ],
+      "title": "Why Huelva's UFO Stories Still Linger",
+      "summary": "Huelva’s UFO history is not built around one famous, officially declassified military case in the way that some Spanish provinces are.",
+      "url": "why-huelvas-ufo-stories-still-linger/",
+      "image": "assets/images/Huelva_bc0cde-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "H"
+    },
+    {
+      "id": "ES-V",
+      "iso": "ES-V",
+      "province": "Valencia",
+      "mapName": "Valencia",
+      "label": "Valencia",
+      "mapAliases": [
+        "valencia",
+        "es v",
+        "v"
+      ],
+      "title": "Why Valencia Became Spain's Aviation UFO Province",
+      "summary": "Valencia’s UFO history is unusually aviation-centred.",
+      "url": "why-valencia-became-spains-aviation-ufo/",
+      "image": "assets/images/Valencia_6459e8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "V"
+    }
+  ],
+  "provinces": [
+    {
+      "id": "ES-SG",
+      "iso": "ES-SG",
+      "province": "Segovia",
+      "mapName": "Segovia",
+      "label": "Segovia",
+      "mapAliases": [
+        "segovia",
+        "es sg",
+        "sg"
+      ],
+      "title": "Did Segovia Ever Have a UFO Case?",
+      "summary": "Segovia is not one of Spain’s great documented UFO provinces.",
+      "url": "did-segovia-ever-have-a-ufo-case/",
+      "image": "assets/images/Segovia_11f113-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SG"
+    },
+    {
+      "id": "ES-P",
+      "iso": "ES-P",
+      "province": "Palencia",
+      "mapName": "Palencia",
+      "label": "Palencia",
+      "mapAliases": [
+        "palencia",
+        "es p",
+        "p"
+      ],
+      "title": "What Did Palencia Really See in 1968?",
+      "summary": "Palencia’s strongest place in Spain’s declassified UFO record is not a dramatic landing tale or a famous pilot encounter, but a short, awkwardly labelled...",
+      "url": "what-did-palencia-really-see-in-1968/",
+      "image": "assets/images/Palencia_b6f02b-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "P"
+    },
+    {
+      "id": "ES-SE",
+      "iso": "ES-SE",
+      "province": "Seville",
+      "mapName": "Seville",
+      "label": "Seville",
+      "mapAliases": [
+        "sevilla",
+        "seville",
+        "es se",
+        "se"
+      ],
+      "title": "What Did Seville's UFO Files Really Show?",
+      "summary": "Seville’s UFO history is not built around one famous “crashed saucer” legend, but around a small set of documented reports that passed through Spain’s...",
+      "url": "what-did-sevilles-ufo-files-really-show/",
+      "image": "assets/images/Seville_41f368-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SE"
+    },
+    {
+      "id": "ES-C",
+      "iso": "ES-C",
+      "province": "A Coruna",
+      "mapName": "A Coruna",
+      "label": "A Coruna",
+      "mapAliases": [
+        "la coruna",
+        "a coruna",
+        "es c",
+        "c"
+      ],
+      "title": "What Really Happened In A Coruna's UFO Files?",
+      "summary": "A Coruña’s UFO history is not a long parade of proven mysteries.",
+      "url": "what-really-happened-in-a-corunas-ufo/",
+      "image": "assets/images/A_Coruna_c18697-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "C"
+    },
+    {
+      "id": "ES-AL",
+      "iso": "ES-AL",
+      "province": "Almeria",
+      "mapName": "Almeria",
+      "label": "Almeria",
+      "mapAliases": [
+        "almeria",
+        "es al",
+        "al"
+      ],
+      "title": "What Really Happened in Almeria's UFO Stories?",
+      "summary": "Almería’s UFO history is not built around one famous, still-unresolved encounter.",
+      "url": "what-really-happened-in-almerias-ufo/",
+      "image": "assets/images/Almeria_5a5611-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "AL"
+    },
+    {
+      "id": "ES-AV",
+      "iso": "ES-AV",
+      "province": "Avila",
+      "mapName": "Avila",
+      "label": "Avila",
+      "mapAliases": [
+        "avila",
+        "es av",
+        "av"
+      ],
+      "title": "What Really Happened in Avila's UFO Stories?",
+      "summary": "Avila’s UFO history is not a catalogue of famous, officially confirmed mysteries.",
+      "url": "what-really-happened-in-avilas-ufo/",
+      "image": "assets/images/Avila_9a1863-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "AV"
+    },
+    {
+      "id": "ES-B",
+      "iso": "ES-B",
+      "province": "Barcelona",
+      "mapName": "Barcelona",
+      "label": "Barcelona",
+      "mapAliases": [
+        "barcelona",
+        "es b",
+        "b"
+      ],
+      "title": "What Really Happened in Barcelona's UFO Files?",
+      "summary": "Barcelona’s UFO history is not built around one spectacular “proof” case.",
+      "url": "what-really-happened-in-barcelonas-ufo/",
+      "image": "assets/images/Barcelona_122a41-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "B"
+    },
+    {
+      "id": "ES-BU",
+      "iso": "ES-BU",
+      "province": "Burgos",
+      "mapName": "Burgos",
+      "label": "Burgos",
+      "mapAliases": [
+        "burgos",
+        "es bu",
+        "bu"
+      ],
+      "title": "What Really Happened in Burgos's UFO Files?",
+      "summary": "Burgos has one of the more unusual provincial UFO records in Spain because its best-known cases are not just late-night rumours.",
+      "url": "what-really-happened-in-burgoss-ufo/",
+      "image": "assets/images/Burgos_199e01-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "BU"
+    },
+    {
+      "id": "ES-CC",
+      "iso": "ES-CC",
+      "province": "Caceres",
+      "mapName": "Caceres",
+      "label": "Caceres",
+      "mapAliases": [
+        "caceres",
+        "es cc",
+        "cc"
+      ],
+      "title": "What Really Happened in Caceres Skies?",
+      "summary": "Cáceres has a real place in Spanish UFO history, but it is not a province with one single, watertight “classic case”.",
+      "url": "what-really-happened-in-caceres-skies/",
+      "image": "assets/images/Caceres_23e6f5-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CC"
+    },
+    {
+      "id": "ES-CA",
+      "iso": "ES-CA",
+      "province": "Cadiz",
+      "mapName": "Cadiz",
+      "label": "Cadiz",
+      "mapAliases": [
+        "cadiz",
+        "es ca",
+        "ca"
+      ],
+      "title": "What Really Happened in Cadiz's UFO Record?",
+      "summary": "Cádiz has a thinner but more revealing UFO record than Spain’s better-known cases in the Canary Islands, Valencia or Badajoz.",
+      "url": "what-really-happened-in-cadizs-ufo/",
+      "image": "assets/images/Cadiz_bf7148-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CA"
+    },
+    {
+      "id": "ES-S",
+      "iso": "ES-S",
+      "province": "Cantabria",
+      "mapName": "Cantabria",
+      "label": "Cantabria",
+      "mapAliases": [
+        "cantabria",
+        "es s",
+        "s"
+      ],
+      "title": "What Really Happened in Cantabria's UFO Stories?",
+      "summary": "Cantabria has a quieter UFO history than better-known Spanish hotspots such as the Canary Islands, Madrid or Galicia, but it has a distinctive local pattern:...",
+      "url": "what-really-happened-in-cantabrias-ufo/",
+      "image": "assets/images/Cantabria_c90a8d-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "S"
+    },
+    {
+      "id": "ES-CR",
+      "iso": "ES-CR",
+      "province": "Ciudad Real",
+      "mapName": "Ciudad Real",
+      "label": "Ciudad Real",
+      "mapAliases": [
+        "ciudad real",
+        "es cr",
+        "cr"
+      ],
+      "title": "What Really Happened in Ciudad Real's UFO Stories?",
+      "summary": "Ciudad Real is not one of Spain’s headline UFO provinces in the way that the Canary Islands, Cádiz, Valencia or Badajoz are, but it has a distinctive place...",
+      "url": "what-really-happened-in-ciudad-reals-ufo/",
+      "image": "assets/images/Ciudad_Real_1bcbd0-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CR"
+    },
+    {
+      "id": "ES-CU",
+      "iso": "ES-CU",
+      "province": "Cuenca",
+      "mapName": "Cuenca",
+      "label": "Cuenca",
+      "mapAliases": [
+        "cuenca",
+        "es cu",
+        "cu"
+      ],
+      "title": "What Really Happened in Cuenca's UFO Cases?",
+      "summary": "Cuenca’s UFO history is not built around a single famous “crash” or a dramatic military confrontation.",
+      "url": "what-really-happened-in-cuencas-ufo/",
+      "image": "assets/images/Cuenca_18bceb-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CU"
+    },
+    {
+      "id": "ES-SS",
+      "iso": "ES-SS",
+      "province": "Gipuzkoa",
+      "mapName": "Gipuzkoa",
+      "label": "Gipuzkoa",
+      "mapAliases": [
+        "guipuzcoa",
+        "gipuzkoa",
+        "es ss",
+        "ss"
+      ],
+      "title": "What Really Happened in Gipuzkoa's UFO Stories?",
+      "summary": "Gipuzkoa does not have one neat, officially unresolved “classic UFO case” that defines the province.",
+      "url": "what-really-happened-in-gipuzkoas-ufo/",
+      "image": "assets/images/Gipuzkoa_c8b477-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SS"
+    },
+    {
+      "id": "ES-GI",
+      "iso": "ES-GI",
+      "province": "Girona",
+      "mapName": "Girona",
+      "label": "Girona",
+      "mapAliases": [
+        "girona",
+        "es gi",
+        "gi"
+      ],
+      "title": "What Really Happened in Girona's UFO Files?",
+      "summary": "Girona’s UFO history is not built around one world-famous “flying saucer” legend.",
+      "url": "what-really-happened-in-gironas-ufo/",
+      "image": "assets/images/Girona_1912ef-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GI"
+    },
+    {
+      "id": "ES-GR",
+      "iso": "ES-GR",
+      "province": "Granada",
+      "mapName": "Granada",
+      "label": "Granada",
+      "mapAliases": [
+        "granada",
+        "es gr",
+        "gr"
+      ],
+      "title": "What Really Happened in Granada's UFO Files?",
+      "summary": "Granada’s documented UFO history is narrower than its folklore suggests.",
+      "url": "what-really-happened-in-granadas-ufo/",
+      "image": "assets/images/Granada_3f7db9-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GR"
+    },
+    {
+      "id": "ES-GU",
+      "iso": "ES-GU",
+      "province": "Guadalajara",
+      "mapName": "Guadalajara",
+      "label": "Guadalajara",
+      "mapAliases": [
+        "guadalajara",
+        "es gu",
+        "gu"
+      ],
+      "title": "What Really Happened in Guadalajara's UFO Stories?",
+      "summary": "Guadalajara’s UFO history is not a catalogue of proven alien encounters.",
+      "url": "what-really-happened-in-guadalajaras-ufo/",
+      "image": "assets/images/Guadalajara_2d19b1-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GU"
+    },
+    {
+      "id": "ES-HU",
+      "iso": "ES-HU",
+      "province": "Huesca",
+      "mapName": "Huesca",
+      "label": "Huesca",
+      "mapAliases": [
+        "huesca",
+        "es hu",
+        "hu"
+      ],
+      "title": "What Really Happened in Huesca's UFO Stories?",
+      "summary": "Huesca’s UFO history is not a long catalogue of strong, unresolved cases.",
+      "url": "what-really-happened-in-huescas-ufo/",
+      "image": "assets/images/Huesca_59c1aa-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "HU"
+    },
+    {
+      "id": "ES-J",
+      "iso": "ES-J",
+      "province": "Jaen",
+      "mapName": "Jaen",
+      "label": "Jaen",
+      "mapAliases": [
+        "es j",
+        "jaen",
+        "j"
+      ],
+      "title": "What Really Happened in Jaen's UFO Stories?",
+      "summary": "Jaén has a modest but unusually colourful place in Spanish UFO history.",
+      "url": "what-really-happened-in-jaens-ufo/",
+      "image": "assets/images/Jaen_6daea8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "J"
+    },
+    {
+      "id": "ES-LO",
+      "iso": "ES-LO",
+      "province": "La Rioja",
+      "mapName": "La Rioja",
+      "label": "La Rioja",
+      "mapAliases": [
+        "la rioja",
+        "es lo",
+        "lo"
+      ],
+      "title": "What Really Happened in La Rioja's UFO Stories?",
+      "summary": "La Rioja’s UFO history is unusually compact. Unlike Spanish provinces with long military case files or repeated radar-linked incidents, the public record for...",
+      "url": "what-really-happened-in-la-riojas-ufo/",
+      "image": "assets/images/La_Rioja_a6a1e6-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "LO"
+    },
+    {
+      "id": "ES-LE",
+      "iso": "ES-LE",
+      "province": "Leon",
+      "mapName": "Leon",
+      "label": "Leon",
+      "mapAliases": [
+        "es le",
+        "leon",
+        "le"
+      ],
+      "title": "What Really Happened in Leon's UFO Reports?",
+      "summary": "León’s UFO history is not built around one spectacular crash story or a famous national incident.",
+      "url": "what-really-happened-in-leons-ufo/",
+      "image": "assets/images/Leon_8b001a-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "LE"
+    },
+    {
+      "id": "ES-L",
+      "iso": "ES-L",
+      "province": "Lleida",
+      "mapName": "Lleida",
+      "label": "Lleida",
+      "mapAliases": [
+        "lleida",
+        "es l",
+        "l"
+      ],
+      "title": "What Really Happened in Lleida's UFO Files?",
+      "summary": "Lleida’s place in Spanish UFO history is unusually compact: the province appears in three Ministry of Defence UFO files, dated 17 May 1968, 23 February 1971...",
+      "url": "what-really-happened-in-lleidas-ufo/",
+      "image": "assets/images/Lleida_a3bb84-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "L"
+    },
+    {
+      "id": "ES-LU",
+      "iso": "ES-LU",
+      "province": "Lugo",
+      "mapName": "Lugo",
+      "label": "Lugo",
+      "mapAliases": [
+        "es lu",
+        "lugo",
+        "lu"
+      ],
+      "title": "What Really Happened in Lugo's UFO Record?",
+      "summary": "Lugo’s UFO history is not built around one neat “classic case”.",
+      "url": "what-really-happened-in-lugos-ufo-record/",
+      "image": "assets/images/Lugo_3c0a46-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "LU"
+    },
+    {
+      "id": "ES-MA",
+      "iso": "ES-MA",
+      "province": "Malaga",
+      "mapName": "Malaga",
+      "label": "Malaga",
+      "mapAliases": [
+        "malaga",
+        "es ma",
+        "ma"
+      ],
+      "title": "What Really Happened in Malaga's UFO Years?",
+      "summary": "Málaga’s UFO history is not a story of a single conclusive mystery.",
+      "url": "what-really-happened-in-malagas-ufo/",
+      "image": "assets/images/Malaga_7b094a-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "MA"
+    },
+    {
+      "id": "ES-ML",
+      "iso": "ES-ML",
+      "province": "Melilla",
+      "mapName": "Melilla",
+      "label": "Melilla",
+      "mapAliases": [
+        "melilla",
+        "es ml",
+        "ml"
+      ],
+      "title": "What Really Happened in Melilla's UFO Stories?",
+      "summary": "Melilla has a small but intriguing place in Spanish UFO history.",
+      "url": "what-really-happened-in-melillas-ufo/",
+      "image": "assets/images/Melilla_c01d8f-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "ML"
+    },
+    {
+      "id": "ES-OR",
+      "iso": "ES-OR",
+      "province": "Ourense",
+      "mapName": "Ourense",
+      "label": "Ourense",
+      "mapAliases": [
+        "ourense",
+        "orense",
+        "es or",
+        "or"
+      ],
+      "title": "What Really Happened in Ourense's UFO Stories?",
+      "summary": "Ourense has a modest but revealing place in Galician UFO history.",
+      "url": "what-really-happened-in-ourenses-ufo/",
+      "image": "assets/images/Ourense_35c272-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "OR"
+    },
+    {
+      "id": "ES-PO",
+      "iso": "ES-PO",
+      "province": "Pontevedra",
+      "mapName": "Pontevedra",
+      "label": "Pontevedra",
+      "mapAliases": [
+        "pontevedra",
+        "es po",
+        "po"
+      ],
+      "title": "What Really Happened in Pontevedra's UFO Stories?",
+      "summary": "Pontevedra’s UFO history is not built around a large official case file in the way that some Spanish provinces are.",
+      "url": "what-really-happened-in-pontevedras-ufo/",
+      "image": "assets/images/Pontevedra_0aef83-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "PO"
+    },
+    {
+      "id": "ES-SA",
+      "iso": "ES-SA",
+      "province": "Salamanca",
+      "mapName": "Salamanca",
+      "label": "Salamanca",
+      "mapAliases": [
+        "salamanca",
+        "es sa",
+        "sa"
+      ],
+      "title": "What Really Happened in Salamanca's UFO Stories?",
+      "summary": "Salamanca’s UFO history is not built around a long list of official military files.",
+      "url": "what-really-happened-in-salamancas-ufo/",
+      "image": "assets/images/Salamanca_973fa7-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SA"
+    },
+    {
+      "id": "ES-SO",
+      "iso": "ES-SO",
+      "province": "Soria",
+      "mapName": "Soria",
+      "label": "Soria",
+      "mapAliases": [
+        "es so",
+        "soria",
+        "so"
+      ],
+      "title": "What Really Happened in Soria's UFO Stories?",
+      "summary": "Soria’s UFO history is not crowded with dozens of well-documented cases, but it does contain two stories that matter in Spanish UFO culture: the Barahona...",
+      "url": "what-really-happened-in-sorias-ufo/",
+      "image": "assets/images/Soria_198769-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "SO"
+    },
+    {
+      "id": "ES-TE",
+      "iso": "ES-TE",
+      "province": "Teruel",
+      "mapName": "Teruel",
+      "label": "Teruel",
+      "mapAliases": [
+        "teruel",
+        "es te",
+        "te"
+      ],
+      "title": "What Really Happened in Teruel's UFO Skies?",
+      "summary": "Teruel’s UFO history is not built around one famous, province-defining mystery.",
+      "url": "what-really-happened-in-teruels-ufo/",
+      "image": "assets/images/Teruel_fc2989-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "TE"
+    },
+    {
+      "id": "ES-TO",
+      "iso": "ES-TO",
+      "province": "Toledo",
+      "mapName": "Toledo",
+      "label": "Toledo",
+      "mapAliases": [
+        "toledo",
+        "es to",
+        "to"
+      ],
+      "title": "What Really Happened in Toledo's UFO Files?",
+      "summary": "Toledo’s UFO history is real in the archival sense, but modest in evidential strength.",
+      "url": "what-really-happened-in-toledos-ufo/",
+      "image": "assets/images/Toledo_1e860c-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "TO"
+    },
+    {
+      "id": "ES-ZA",
+      "iso": "ES-ZA",
+      "province": "Zamora",
+      "mapName": "Zamora",
+      "label": "Zamora",
+      "mapAliases": [
+        "zamora",
+        "es za",
+        "za"
+      ],
+      "title": "What Really Happened in Zamora's UFO Stories?",
+      "summary": "Zamora’s UFO history is not built around one nationally famous, military-documented incident.",
+      "url": "what-really-happened-in-zamoras-ufo/",
+      "image": "assets/images/Zamora_6f7871-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "ZA"
+    },
+    {
+      "id": "ES-Z",
+      "iso": "ES-Z",
+      "province": "Zaragoza",
+      "mapName": "Zaragoza",
+      "label": "Zaragoza",
+      "mapAliases": [
+        "zaragoza",
+        "es z",
+        "z"
+      ],
+      "title": "What Really Happened in Zaragoza's UFO Files?",
+      "summary": "Zaragoza’s UFO history is not a story of one spectacular, proven encounter.",
+      "url": "what-really-happened-in-zaragozas-ufo/",
+      "image": "assets/images/Zaragoza_2782d8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "Z"
+    },
+    {
+      "id": "ES-O",
+      "iso": "ES-O",
+      "province": "Asturias",
+      "mapName": "Asturias",
+      "label": "Asturias",
+      "mapAliases": [
+        "asturias",
+        "es o",
+        "o"
+      ],
+      "title": "What Really Happened Over Asturias?",
+      "summary": "Asturias has one firmly documented place in Spain’s official UFO record: the Gijón sighting of 26 June 1969, preserved as file 690626 in the Spanish Ministry...",
+      "url": "what-really-happened-over-asturias/",
+      "image": "assets/images/Asturias_60aedd-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "O"
+    },
+    {
+      "id": "ES-CS",
+      "iso": "ES-CS",
+      "province": "Castellon",
+      "mapName": "Castellon",
+      "label": "Castellon",
+      "mapAliases": [
+        "castellon",
+        "castello",
+        "es cs",
+        "cs"
+      ],
+      "title": "What Really Happened Over Castellon?",
+      "summary": "Castellon’s UFO history is not built around a long list of well-documented close encounters.",
+      "url": "what-really-happened-over-castellon/",
+      "image": "assets/images/Castellon_b6b2a8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CS"
+    },
+    {
+      "id": "ES-CO",
+      "iso": "ES-CO",
+      "province": "Cordoba",
+      "mapName": "Cordoba",
+      "label": "Cordoba",
+      "mapAliases": [
+        "cordoba",
+        "es co",
+        "co"
+      ],
+      "title": "What Really Happened Over Cordoba?",
+      "summary": "Córdoba has a thinner but more revealing UFO record than some neighbouring Andalusian provinces.",
+      "url": "what-really-happened-over-cordoba/",
+      "image": "assets/images/Cordoba_c65d18-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CO"
+    },
+    {
+      "id": "ES-GC",
+      "iso": "ES-GC",
+      "province": "Las Palmas",
+      "mapName": "Las Palmas",
+      "label": "Las Palmas",
+      "mapAliases": [
+        "las palmas",
+        "es gc",
+        "gc"
+      ],
+      "title": "What Really Happened Over Las Palmas?",
+      "summary": "Las Palmas matters in Spanish UFO history because it sits at the centre of the Canary Islands’ best documented sighting cluster: a run of spectacular...",
+      "url": "what-really-happened-over-las-palmas/",
+      "image": "assets/images/Las_Palmas_c2c576-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "GC"
+    },
+    {
+      "id": "ES-M",
+      "iso": "ES-M",
+      "province": "Madrid",
+      "mapName": "Madrid",
+      "label": "Madrid",
+      "mapAliases": [
+        "madrid",
+        "es m",
+        "m"
+      ],
+      "title": "What Really Happened Over Madrid?",
+      "summary": "Madrid’s UFO history is not built around one single, decisive “classic case”.",
+      "url": "what-really-happened-over-madrid/",
+      "image": "assets/images/Madrid_7a2191-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "M"
+    },
+    {
+      "id": "ES-MU",
+      "iso": "ES-MU",
+      "province": "Murcia",
+      "mapName": "Murcia",
+      "label": "Murcia",
+      "mapAliases": [
+        "murcia",
+        "es mu",
+        "mu"
+      ],
+      "title": "What Really Happened Over Murcia's Skies?",
+      "summary": "Murcia has a stronger place in Spanish UFO history than its quiet reputation might suggest.",
+      "url": "what-really-happened-over-murcias-skies/",
+      "image": "assets/images/Murcia_fed56b-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "MU"
+    },
+    {
+      "id": "ES-NA",
+      "iso": "ES-NA",
+      "province": "Navarre",
+      "mapName": "Navarre",
+      "label": "Navarre",
+      "mapAliases": [
+        "navarra",
+        "navarre",
+        "es na",
+        "na"
+      ],
+      "title": "What Really Happened Over Navarre's Skies?",
+      "summary": "Navarre’s UFO history is unusually concentrated.",
+      "url": "what-really-happened-over-navarres-skies/",
+      "image": "assets/images/Navarre_d04319-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "NA"
+    },
+    {
+      "id": "ES-T",
+      "iso": "ES-T",
+      "province": "Tarragona",
+      "mapName": "Tarragona",
+      "label": "Tarragona",
+      "mapAliases": [
+        "tarragona",
+        "es t",
+        "t"
+      ],
+      "title": "What Really Happened Over Tarragona's Skies?",
+      "summary": "Tarragona’s UFO history is not a catalogue of proven extraordinary events.",
+      "url": "what-really-happened-over-tarragonas/",
+      "image": "assets/images/Tarragona_3ac142-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "T"
+    },
+    {
+      "id": "ES-TF",
+      "iso": "ES-TF",
+      "province": "Santa Cruz de Tenerife",
+      "mapName": "Santa Cruz de Tenerife",
+      "label": "Santa Cruz de Tenerife",
+      "mapAliases": [
+        "santa cruz de tenerife",
+        "es tf",
+        "tf"
+      ],
+      "title": "What Really Happened Over Tenerife's Skies?",
+      "summary": "Santa Cruz de Tenerife matters in Spanish UFO history because Tenerife and its neighbouring western islands sit inside one of Spain’s best-documented UFO...",
+      "url": "santa-cruz-de-tenerife/",
+      "image": "assets/images/Santa_Cruz_de_Teneri_4ff430-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "TF"
+    },
+    {
+      "id": "ES-PM",
+      "iso": "ES-PM",
+      "province": "Balearic Islands",
+      "mapName": "Balearic Islands",
+      "label": "Balearic Islands",
+      "mapAliases": [
+        "balearic islands",
+        "es pm",
+        "pm"
+      ],
+      "title": "What Really Happened Over the Balearics?",
+      "summary": "The Balearic Islands have one of Spain’s more interesting regional UFO histories, not because the evidence proves exotic craft, but because several cases...",
+      "url": "balearic-islands/",
+      "image": "assets/images/Balearic_Islands_d9fdd5-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "PM"
+    },
+    {
+      "id": "ES-VA",
+      "iso": "ES-VA",
+      "province": "Valladolid",
+      "mapName": "Valladolid",
+      "label": "Valladolid",
+      "mapAliases": [
+        "valladolid",
+        "es va",
+        "va"
+      ],
+      "title": "What Really Happened Over Valladolid?",
+      "summary": "Valladolid’s UFO history is not built around one perfectly documented mystery.",
+      "url": "what-really-happened-over-valladolid/",
+      "image": "assets/images/Valladolid_d2ebea-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "VA"
+    },
+    {
+      "id": "ES-VI",
+      "iso": "ES-VI",
+      "province": "Alava",
+      "mapName": "Alava",
+      "label": "Alava",
+      "mapAliases": [
+        "alava",
+        "araba",
+        "es vi",
+        "vi"
+      ],
+      "title": "Why Alava's UFO Legends Outgrew Their Evidence",
+      "summary": "Álava does not have a large, well-documented UFO record in the way that some Spanish provinces do.",
+      "url": "why-alavas-ufo-legends-outgrew-their/",
+      "image": "assets/images/Alava_ef490e-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "VI"
+    },
+    {
+      "id": "ES-A",
+      "iso": "ES-A",
+      "province": "Alicante",
+      "mapName": "Alicante",
+      "label": "Alicante",
+      "mapAliases": [
+        "alicante",
+        "alacant",
+        "es a",
+        "a"
+      ],
+      "title": "Why Alicante Became a UFO File Hotspot",
+      "summary": "Alicante’s UFO history is not built around one world-famous landing story.",
+      "url": "why-alicante-became-a-ufo-file-hotspot/",
+      "image": "assets/images/Alicante_46e2a1-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "A"
+    },
+    {
+      "id": "ES-BA",
+      "iso": "ES-BA",
+      "province": "Badajoz",
+      "mapName": "Badajoz",
+      "label": "Badajoz",
+      "mapAliases": [
+        "badajoz",
+        "es ba",
+        "ba"
+      ],
+      "title": "Why Badajoz Became A UFO Case Province",
+      "summary": "Badajoz has a modest but unusually well-documented place in Spanish UFO history.",
+      "url": "why-badajoz-became-a-ufo-case-province/",
+      "image": "assets/images/Badajoz_632079-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "BA"
+    },
+    {
+      "id": "ES-CE",
+      "iso": "ES-CE",
+      "province": "Ceuta",
+      "mapName": "Ceuta",
+      "label": "Ceuta",
+      "mapAliases": [
+        "ceuta",
+        "es ce",
+        "ce"
+      ],
+      "title": "Why Do UFO Stories Cluster Around Ceuta?",
+      "summary": "Ceuta has a small but interesting place in Spanish UFO history: not as a province with a famous, well-documented “classic case”, but as a strategic Strait of...",
+      "url": "why-do-ufo-stories-cluster-around-ceuta/",
+      "image": "assets/images/Ceuta_6791a7-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "CE"
+    },
+    {
+      "id": "ES-AB",
+      "iso": "ES-AB",
+      "province": "Albacete",
+      "mapName": "Albacete",
+      "label": "Albacete",
+      "mapAliases": [
+        "albacete",
+        "es ab",
+        "ab"
+      ],
+      "title": "Why Does Albacete Matter in Spanish UFO Lore?",
+      "summary": "Albacete’s place in Spanish UFO history is unusual: the province has one very early press-era “flying saucer” story, one strong aviation connection to...",
+      "url": "why-does-albacete-matter-in-spanish-ufo/",
+      "image": "assets/images/Albacete_3f7c9a-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "AB"
+    },
+    {
+      "id": "ES-BI",
+      "iso": "ES-BI",
+      "province": "Biscay",
+      "mapName": "Biscay",
+      "label": "Biscay",
+      "mapAliases": [
+        "bizkaia",
+        "vizcaya",
+        "biscay",
+        "es bi",
+        "bi"
+      ],
+      "title": "Why Gallarta Still Defines Biscay UFOs",
+      "summary": "Biscay’s UFO history is not built around a long list of official cases.",
+      "url": "why-gallarta-still-defines-biscay-ufos/",
+      "image": "assets/images/Biscay_fc6f6b-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "BI"
+    },
+    {
+      "id": "ES-H",
+      "iso": "ES-H",
+      "province": "Huelva",
+      "mapName": "Huelva",
+      "label": "Huelva",
+      "mapAliases": [
+        "huelva",
+        "es h",
+        "h"
+      ],
+      "title": "Why Huelva's UFO Stories Still Linger",
+      "summary": "Huelva’s UFO history is not built around one famous, officially declassified military case in the way that some Spanish provinces are.",
+      "url": "why-huelvas-ufo-stories-still-linger/",
+      "image": "assets/images/Huelva_bc0cde-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "H"
+    },
+    {
+      "id": "ES-V",
+      "iso": "ES-V",
+      "province": "Valencia",
+      "mapName": "Valencia",
+      "label": "Valencia",
+      "mapAliases": [
+        "valencia",
+        "es v",
+        "v"
+      ],
+      "title": "Why Valencia Became Spain's Aviation UFO Province",
+      "summary": "Valencia’s UFO history is unusually aviation-centred.",
+      "url": "why-valencia-became-spains-aviation-ufo/",
+      "image": "assets/images/Valencia_6459e8-overview.webp",
+      "pageCount": 5,
+      "region": "Spain",
+      "code": "V"
+    }
+  ],
+  "matchedCount": 52,
+  "totalTopTopics": 52,
+  "source": "Generated from Stage 3 Spanish province collection pages; CC0 base SVG from MapSVG.",
+  "sourceUrl": "https://mapsvg.com/maps/spain-provinces",
+  "license": "Commercial use allowed; no attribution required."
+}

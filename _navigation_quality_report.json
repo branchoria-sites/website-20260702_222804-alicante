@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-02T21:21:21.889238Z",
+  "summary": {
+    "total_pages_with_permalink": 312,
+    "visible_pages": 260,
+    "hidden_pages": 52,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 638,
+    "inline_internal_target_page_count": 260,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 224,
+    "average_inline_inbound_links_per_visible_page": 2.45,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Albacete_3f7c9a",
+        "title": "Why Does Albacete Matter in Spanish UFO Lore?",
+        "permalink": "/why-does-albacete-matter-in-spanish-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Alicante_46e2a1",
+        "title": "Why Alicante Became a UFO File Hotspot",
+        "permalink": "/why-alicante-became-a-ufo-file-hotspot/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "title": "Benidorm 1986",
+        "permalink": "/benidorm-1986/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Almeria_5a5611_1968_air_force_file_2dd9e8",
+        "title": "1968 File",
+        "permalink": "/1968-file/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Asturias_60aedd",
+        "title": "What Really Happened Over Asturias?",
+        "permalink": "/what-really-happened-over-asturias/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Badajoz_632079",
+        "title": "Why Badajoz Became A UFO Case Province",
+        "permalink": "/why-badajoz-became-a-ufo-case-province/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Barcelona_122a41",
+        "title": "What Really Happened in Barcelona's UFO Files?",
+        "permalink": "/what-really-happened-in-barcelonas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Biscay_fc6f6b",
+        "title": "Why Gallarta Still Defines Biscay UFOs",
+        "permalink": "/why-gallarta-still-defines-biscay-ufos/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Burgos_199e01",
+        "title": "What Really Happened in Burgos's UFO Files?",
+        "permalink": "/what-really-happened-in-burgoss-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cantabria_c90a8d",
+        "title": "What Really Happened in Cantabria's UFO Stories?",
+        "permalink": "/what-really-happened-in-cantabrias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Castellon_b6b2a8",
+        "title": "What Really Happened Over Castellon?",
+        "permalink": "/what-really-happened-over-castellon/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ceuta_6791a7",
+        "title": "Why Do UFO Stories Cluster Around Ceuta?",
+        "permalink": "/why-do-ufo-stories-cluster-around-ceuta/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0",
+        "title": "What Really Happened in Ciudad Real's UFO Stories?",
+        "permalink": "/what-really-happened-in-ciudad-reals-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cuenca_18bceb",
+        "title": "What Really Happened in Cuenca's UFO Cases?",
+        "permalink": "/what-really-happened-in-cuencas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Gipuzkoa_c8b477",
+        "title": "What Really Happened in Gipuzkoa's UFO Stories?",
+        "permalink": "/what-really-happened-in-gipuzkoas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Girona_1912ef",
+        "title": "What Really Happened in Girona's UFO Files?",
+        "permalink": "/what-really-happened-in-gironas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Granada_3f7db9",
+        "title": "What Really Happened in Granada's UFO Files?",
+        "permalink": "/what-really-happened-in-granadas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Guadalajara_2d19b1",
+        "title": "What Really Happened in Guadalajara's UFO Stories?",
+        "permalink": "/what-really-happened-in-guadalajaras-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Huelva_bc0cde",
+        "title": "Why Huelva's UFO Stories Still Linger",
+        "permalink": "/why-huelvas-ufo-stories-still-linger/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Huesca_59c1aa",
+        "title": "What Really Happened in Huesca's UFO Stories?",
+        "permalink": "/what-really-happened-in-huescas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "La_Rioja_a6a1e6",
+        "title": "What Really Happened in La Rioja's UFO Stories?",
+        "permalink": "/what-really-happened-in-la-riojas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Las_Palmas_c2c576",
+        "title": "What Really Happened Over Las Palmas?",
+        "permalink": "/what-really-happened-over-las-palmas/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Las_Palmas_c2c576_missile_explanation_2872d9",
+        "title": "Missile Theory",
+        "permalink": "/missile-theory/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Lleida_a3bb84",
+        "title": "What Really Happened in Lleida's UFO Files?",
+        "permalink": "/what-really-happened-in-lleidas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Madrid_7a2191",
+        "title": "What Really Happened Over Madrid?",
+        "permalink": "/what-really-happened-over-madrid/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Melilla_c01d8f",
+        "title": "What Really Happened in Melilla's UFO Stories?",
+        "permalink": "/what-really-happened-in-melillas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Murcia_fed56b",
+        "title": "What Really Happened Over Murcia's Skies?",
+        "permalink": "/what-really-happened-over-murcias-skies/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Navarre_d04319",
+        "title": "What Really Happened Over Navarre's Skies?",
+        "permalink": "/what-really-happened-over-navarres-skies/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ourense_35c272",
+        "title": "What Really Happened in Ourense's UFO Stories?",
+        "permalink": "/what-really-happened-in-ourenses-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Palencia_b6f02b",
+        "title": "What Did Palencia Really See in 1968?",
+        "permalink": "/what-did-palencia-really-see-in-1968/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Pontevedra_0aef83",
+        "title": "What Really Happened in Pontevedra's UFO Stories?",
+        "permalink": "/what-really-happened-in-pontevedras-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Salamanca_973fa7",
+        "title": "What Really Happened in Salamanca's UFO Stories?",
+        "permalink": "/what-really-happened-in-salamancas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Santa_Cruz_de_Teneri_4ff430",
+        "title": "What Really Happened Over Tenerife's Skies?",
+        "permalink": "/santa-cruz-de-tenerife/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Segovia_11f113",
+        "title": "Did Segovia Ever Have a UFO Case?",
+        "permalink": "/did-segovia-ever-have-a-ufo-case/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Seville_41f368",
+        "title": "What Did Seville's UFO Files Really Show?",
+        "permalink": "/what-did-sevilles-ufo-files-really-show/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Soria_198769",
+        "title": "What Really Happened in Soria's UFO Stories?",
+        "permalink": "/what-really-happened-in-sorias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Tarragona_3ac142",
+        "title": "What Really Happened Over Tarragona's Skies?",
+        "permalink": "/what-really-happened-over-tarragonas/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Teruel_fc2989",
+        "title": "What Really Happened in Teruel's UFO Skies?",
+        "permalink": "/what-really-happened-in-teruels-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Toledo_1e860c",
+        "title": "What Really Happened in Toledo's UFO Files?",
+        "permalink": "/what-really-happened-in-toledos-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Valencia_6459e8",
+        "title": "Why Valencia Became Spain's Aviation UFO Province",
+        "permalink": "/why-valencia-became-spains-aviation-ufo/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "Alicante_46e2a1",
+        "to": "A_Coruna_c18697",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Alava_ef490e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Albacete_3f7c9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Almeria_5a5611",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Asturias_60aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Avila_9a1863",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Badajoz_632079",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Balearic_Islands_d9fdd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Barcelona_122a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Biscay_fc6f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Burgos_199e01",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Caceres_23e6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Cadiz_bf7148",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Cantabria_c90a8d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Castellon_b6b2a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Ceuta_6791a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Cordoba_c65d18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Cuenca_18bceb",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Gipuzkoa_c8b477",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Girona_1912ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Granada_3f7db9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Guadalajara_2d19b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Huelva_bc0cde",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Huesca_59c1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Jaen_6daea8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "La_Rioja_a6a1e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Las_Palmas_c2c576",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Leon_8b001a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Lleida_a3bb84",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Lugo_3c0a46",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Madrid_7a2191",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Malaga_7b094a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Melilla_c01d8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Murcia_fed56b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Navarre_d04319",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Ourense_35c272",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Palencia_b6f02b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Pontevedra_0aef83",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Salamanca_973fa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Santa_Cruz_de_Teneri_4ff430",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Segovia_11f113",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Seville_41f368",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Soria_198769",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Tarragona_3ac142",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Teruel_fc2989",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Toledo_1e860c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Valencia_6459e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Valladolid_d2ebea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Zamora_6f7871",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Zaragoza_2782d8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "type": "child"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "type": "child"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Alicante_46e2a1_index",
+        "type": "child"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Alicante_46e2a1_official_files_c31821",
+        "type": "child"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Alicante_46e2a1_witness_claims_6306a3",
+        "type": "child"
+      },
+      {
+        "from": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "to": "Alicante_46e2a1",
+        "type": "parent"
+      },
+      {
+        "from": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "to": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "to": "Alicante_46e2a1_official_files_c31821",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "to": "Alicante_46e2a1_witness_claims_6306a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "to": "Alicante_46e2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alicante_46e2a1_official_files_c31821",
+        "to": "Alicante_46e2a1",
+        "type": "parent"
+      },
+      {
+        "from": "Alicante_46e2a1_official_files_c31821",
+        "to": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_official_files_c31821",
+        "to": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_official_files_c31821",
+        "to": "Alicante_46e2a1_witness_claims_6306a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_official_files_c31821",
+        "to": "Alicante_46e2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alicante_46e2a1_witness_claims_6306a3",
+        "to": "Alicante_46e2a1",
+        "type": "parent"
+      },
+      {
+        "from": "Alicante_46e2a1_witness_claims_6306a3",
+        "to": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_witness_claims_6306a3",
+        "to": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_witness_claims_6306a3",
+        "to": "Alicante_46e2a1_official_files_c31821",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_witness_claims_6306a3",
+        "to": "Alicante_46e2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "to": "Alicante_46e2a1",
+        "type": "parent"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "to": "Alicante_46e2a1_benidorm_1986_6ae331",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "to": "Alicante_46e2a1_official_files_c31821",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "to": "Alicante_46e2a1_witness_claims_6306a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_radar_cases_9534a1",
+        "to": "Alicante_46e2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "A_Coruna_c18697",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Alava_ef490e",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Alicante_46e2a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Almeria_5a5611",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Asturias_60aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Avila_9a1863",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Badajoz_632079",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Balearic_Islands_d9fdd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Barcelona_122a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Biscay_fc6f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Burgos_199e01",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Caceres_23e6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Cadiz_bf7148",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Cantabria_c90a8d",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Castellon_b6b2a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Ceuta_6791a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Cordoba_c65d18",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Cuenca_18bceb",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Gipuzkoa_c8b477",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Girona_1912ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Granada_3f7db9",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Guadalajara_2d19b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Huelva_bc0cde",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Huesca_59c1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Jaen_6daea8",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "La_Rioja_a6a1e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Las_Palmas_c2c576",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Leon_8b001a",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Lleida_a3bb84",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Lugo_3c0a46",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Madrid_7a2191",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Malaga_7b094a",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Melilla_c01d8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Murcia_fed56b",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Navarre_d04319",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Ourense_35c272",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Palencia_b6f02b",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Pontevedra_0aef83",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Salamanca_973fa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Santa_Cruz_de_Teneri_4ff430",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Segovia_11f113",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Seville_41f368",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Soria_198769",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Tarragona_3ac142",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Teruel_fc2989",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Toledo_1e860c",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Valencia_6459e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Valladolid_d2ebea",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Zamora_6f7871",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Zaragoza_2782d8",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "type": "child"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_index",
+        "type": "child"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "type": "child"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_media_legacy_c308ed",
+        "type": "child"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "type": "child"
+      },
+      {
+        "from": "Albacete_3f7c9a_media_legacy_c308ed",
+        "to": "Albacete_3f7c9a",
+        "type": "parent"
+      },
+      {
+        "from": "Albacete_3f7c9a_media_legacy_c308ed",
+        "to": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_media_legacy_c308ed",
+        "to": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_media_legacy_c308ed",
+        "to": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_media_legacy_c308ed",
+        "to": "Albacete_3f7c9a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "to": "Albacete_3f7c9a",
+        "type": "parent"
+      },
+      {
+        "from": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "to": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "to": "Albacete_3f7c9a_media_legacy_c308ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "to": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "to": "Albacete_3f7c9a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "to": "Albacete_3f7c9a",
+        "type": "parent"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "to": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "to": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "to": "Albacete_3f7c9a_media_legacy_c308ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "to": "Albacete_3f7c9a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "to": "Albacete_3f7c9a",
+        "type": "parent"
+      },
+      {
+        "from": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "to": "Albacete_3f7c9a_los_llanos_manises_7e5b88",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "to": "Albacete_3f7c9a_media_legacy_c308ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "to": "Albacete_3f7c9a_official_files_gap_5fb694",
+        "type": "sibling"
+      },
+      {
+        "from": "Albacete_3f7c9a_balazote_1947_saucer_d86ca0",
+        "to": "Albacete_3f7c9a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "A_Coruna_c18697",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Alava_ef490e",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Albacete_3f7c9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Alicante_46e2a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Asturias_60aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Avila_9a1863",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Badajoz_632079",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Balearic_Islands_d9fdd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Barcelona_122a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Biscay_fc6f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Burgos_199e01",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Caceres_23e6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cadiz_bf7148",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cantabria_c90a8d",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Castellon_b6b2a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Ceuta_6791a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cordoba_c65d18",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cuenca_18bceb",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Gipuzkoa_c8b477",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Girona_1912ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Granada_3f7db9",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Guadalajara_2d19b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Huelva_bc0cde",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Huesca_59c1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Jaen_6daea8",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "La_Rioja_a6a1e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Las_Palmas_c2c576",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Leon_8b001a",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Lleida_a3bb84",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Lugo_3c0a46",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Madrid_7a2191",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Malaga_7b094a",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Melilla_c01d8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Murcia_fed56b",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Navarre_d04319",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Ourense_35c272",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Palencia_b6f02b",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Pontevedra_0aef83",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Salamanca_973fa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Santa_Cruz_de_Teneri_4ff430",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Segovia_11f113",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Seville_41f368",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Soria_198769",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Tarragona_3ac142",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Teruel_fc2989",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Toledo_1e860c",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Valencia_6459e8",
+        "type": "sibling"
+      }
+    ]
+  }
+}
