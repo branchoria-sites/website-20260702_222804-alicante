@@ -9104,6 +9104,7 @@
     var fallbackSummary = root.getAttribute('data-map-fallback-summary') || 'Open this item from the map.';
     var previewPreloadLimit = root.getAttribute('data-map-preview-preload') || 'all';
     var mapFitMode = root.getAttribute('data-map-fit') || '';
+    var mapLayout = String(root.getAttribute('data-map-layout') || '').trim().toLowerCase();
     var initialItemId = String(root.getAttribute('data-map-initial-item') || '').trim().toUpperCase();
     if (!canvas || !mapSrc || !dataSrc) {
       return;
@@ -9490,6 +9491,14 @@
       if (!svg) {
         return;
       }
+      var contextShapeMapLayouts = {
+        'canada': true,
+        'australia': true,
+        'france-departments': true,
+        'spain-provinces': true,
+        'italy-regions': true,
+        'germany-states': true
+      };
       root.addEventListener('click', function(event) {
         event.stopPropagation();
       });
@@ -10176,6 +10185,19 @@
           });
         });
       });
+      var markUnlinkedMapContextShapes = function() {
+        if (!contextShapeMapLayouts[mapLayout]) {
+          return;
+        }
+        Array.prototype.forEach.call(svg.querySelectorAll('path, polygon, polyline, rect, circle'), function(node) {
+          if (node.hasAttribute('data-interactive-map-item') || node.hasAttribute('data-uap-country')) {
+            return;
+          }
+          node.classList.add('map-context-shape');
+          node.setAttribute('aria-hidden', 'true');
+        });
+      };
+      markUnlinkedMapContextShapes();
       fitSvgToLinkedBounds();
       var resolveInitialIso = function() {
         if (initialItemId && byIso[initialItemId] && nodesByIso[initialItemId]) {

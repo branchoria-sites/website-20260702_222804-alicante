@@ -171,14 +171,18 @@ map_view:
   items: 52
   map: /assets/maps/spain-provinces.svg
   data: /assets/maps/spain-provinces.json
-site_image_description: A radar dome on the Sierra de Aitana above the Alicante coast at dusk, with the Mediterranean and distant town lights below.
+header:
+  og_image: /assets/images/Ciudad_Real_1bcbd0-overview-social.jpg
+  preview_image: /assets/images/Ciudad_Real_1bcbd0-overview-social.jpg
+image: /assets/images/Ciudad_Real_1bcbd0-overview-social.jpg
+site_image_description: A night view of A Coruna's Atlantic coast with a naval harbour, dark headlands and a small unexplained light above the sea.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="spain-provinces" data-map-item-type="province" data-map-label="UFO and UAP Spanish provinces map" data-map-fallback-summary="Open this Spanish province file from the map." data-map-src="{{ 'assets/maps/spain-provinces.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/spain-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="ES-SG" data-map-preview-preload="all">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Segovia_11f113-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Segovia_11f113-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">SG</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="spain" data-uap-world-map-region-focus="spain" aria-label="Focus map on Spain">Spain</button>

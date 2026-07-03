@@ -1,57 +1,56 @@
-title: UFOs and UAP by Spanish Province
-short_title: UFOs and UAP by Spanish Province
-brand_name: Branchoria
-brand_domain: branchoria.com
-description: Province-by-province guides to UFO and UAP reports, records, and explanations
-  across Spain.
-tagline: Start with the overview, then follow the sections that match your goal
+title: 'UFOs and UAP by Spanish Province'
+short_title: 'UFOs and UAP by Spanish Province'
+brand_name: 'Branchoria'
+brand_domain: 'branchoria.com'
+description: 'Province-by-province guides to UFO and UAP reports, records, and explanations across Spain.'
+tagline: 'Compare sightings, records, and explanations across Spanish provinces.'
 encoding: utf-8
-lang: en
-locale: en
-text_direction: ltr
-direction: ltr
-visual_profile: atlas
-layout_archetype: atlas
-visual_palette: verdant-field
-visual_motif: orbital
-font_heading: Plus Jakarta Sans
-font_body: Lora
+lang: 'en'
+locale: 'en'
+text_direction: 'ltr'
+direction: 'ltr'
+visual_profile: 'compact'
+layout_archetype: 'compact-grid'
+visual_palette: 'signal-cobalt'
+visual_motif: 'horizon'
+font_heading: 'Space Grotesk'
+font_body: 'Source Serif 4'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
-appearance_text_default: standard
-appearance_width_default: standard
-appearance_color_default: dark
-mobile_layout_mode: article-first
-mobile_sidebar_mode: collapsible
-mobile_sidebar_default: closed
-endnotes_mode: auto
+appearance_text_default: 'standard'
+appearance_width_default: 'standard'
+appearance_color_default: 'dark'
+mobile_layout_mode: 'article-first'
+mobile_sidebar_mode: 'collapsible'
+mobile_sidebar_default: 'closed'
+endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
-baseurl: ''
-url: https://ufo-spain.branchoria.com
-ui_priority: home-first
-homepage_audience_mode: production
-homepage_copy_policy: polished
-home_layout_mode: vertical
-auto_home_layout_mode: catalog
-hierarchy_viz_mode: hybrid
-ui_bundle_version: build-1783027248
+baseurl: ""
+url: "https://ufo-spain.branchoria.com"
+ui_priority: 'home-first'
+homepage_audience_mode: 'production'
+homepage_copy_policy: 'polished'
+home_layout_mode: 'vertical'
+auto_home_layout_mode: 'catalog'
+hierarchy_viz_mode: 'hybrid'
+ui_bundle_version: 'build-1783101249'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 include:
-- pages
+  - pages
 defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
+  - scope:
+      path: ""
+    values:
+      layout: default
 ui_strings:
   home: Home
   overview: Overview
@@ -119,36 +118,26 @@ ui_strings:
   browse_reports: Search pages
   main_topic: Main topic
   quick_links: Quick links
-  footer_main_topic_intro: Start with the main overview, then explore the related
-    pages.
-  footer_quick_links_intro: Jump straight into the overview pages that anchor this
-    collection.
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
   how_to_use_this_site: How to use this site
   use_this_site: Use this site
-  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the
-    collection, and open Topics or Outline when you want extra navigation.
-  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic
-    maps and article collections.
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
   affiliate_and_ai_disclosure: Affiliate & AI Disclosure
-  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance
-    and may contain errors. Some outbound links may earn Branchoria a commission.
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
   learn_more: Learn more.
   restore_page_outline: Restore page outline
   restore_contents: Restore contents
   page_outline_moved_here: The page outline has moved here.
   contents_panel_moved_here: The contents panel has moved here.
   switch_theme: Switch theme
-  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview,
-    then follow the sections that match your goal
-  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview,
-    major sections, and focused guides.
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
   research_map: Research Map
-  research_map_single_topic_description: A practical guide to {topic}, from the main
-    overview to focused routes through the topic.
-  research_map_multi_topic_description: Browse the main routes through the research
-    across major topics and focused guides.
-  research_map_default_description: Browse the main routes through the research from
-    overview pages to focused guides.
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
   visual_hierarchy: Visual hierarchy
   cluster_focus_path: Cluster focus path
   active_branch: Active branch
@@ -157,13 +146,10 @@ ui_strings:
   selected_branch: Selected branch
   pinned_branch: Pinned branch
   previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
-  vertical_selected_branch_hint: Tap another branch to switch the selection, or open
-    a page from this branch.
-  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview
-    without leaving this branch.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
   vertical_branch_card_hint: Tap a branch card to open its subtopics here.
-  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in
-    place.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
   pin_branch: Pin Branch
   back_to_pinned: Back to Pinned
   back_to_overview: Back to Overview
@@ -173,20 +159,17 @@ ui_strings:
   open_on_youtube: Open on YouTube
   topic_tree_site_title_suffix: Topic Tree
   research_topic_tree: Research Topic Tree
-  site_description_single_topic: Practical guides on {topic}, organized for fast browsing
-    and comparison.
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
   site_description_default: Practical guides organized for fast browsing and comparison.
   test_views: Test views
-  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to
-    inspect alternate homepage layouts.
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
   current: Current
   homepage_view_options: Homepage view options
   auto_mode: Auto
   cluster_mode: Tree view
   catalog_mode: Catalog
   cycle_homepage_test_view: Cycle homepage test view
-  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before
-    publishing.
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
   scope: Scope
   search_reports: Search pages
   search_topic_branch_or_keyword: Search topic, branch, or keyword...
@@ -194,20 +177,17 @@ ui_strings:
   further_reading_kicker: Amazon book picks
   further_reading_intro_with_topic: Books and field guides related to {topic}.
   further_reading_intro_default: Books and field guides related to this page.
-  further_reading_intro_suffix: Use these as the next step if you want deeper reading
-    beyond the article.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
   further_reading_author_prefix: By
   further_reading_open_book: Open {title} on Amazon
   further_reading_cover_placeholder: Book
   further_reading_book_cta: See on Amazon
   further_reading_browse_more: Browse more on Amazon
   further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
-  further_reading_fallback_intro: No matched book cards were available for {topic},
-    so this fallback keeps a direct Amazon reading path visible.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
   further_reading_search_primary: Topical books
   further_reading_search_secondary: Related search
-  further_reading_search_desc: Browse books, explainers and reference titles related
-    to this topic.
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
   topics: Topics

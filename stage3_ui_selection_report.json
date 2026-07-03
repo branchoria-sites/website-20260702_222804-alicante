@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 260,
@@ -34,68 +34,131 @@
     "long_title_branch_count": 0,
     "single_root_tree": false,
     "topic_labels": [
-      "Why Alicante Became a UFO File Hotspot",
+      "What Really Happened In A Coruna's UFO Files?",
+      "Why Alava's UFO Legends Outgrew Their Evidence",
       "Why Does Albacete Matter in Spanish UFO Lore?",
+      "Why Alicante Became a UFO File Hotspot",
       "What Really Happened in Almeria's UFO Stories?",
+      "What Really Happened Over Asturias?",
       "What Really Happened in Avila's UFO Stories?",
-      "What Really Happened in Barcelona's UFO Files?",
       "Why Badajoz Became A UFO Case Province",
+      "What Really Happened Over the Balearics?",
+      "What Really Happened in Barcelona's UFO Files?",
       "Why Gallarta Still Defines Biscay UFOs",
       "What Really Happened in Burgos's UFO Files?",
-      "What Really Happened In A Coruna's UFO Files?",
-      "What Really Happened in Cadiz's UFO Record?",
       "What Really Happened in Caceres Skies?",
-      "Why Do UFO Stories Cluster Around Ceuta?",
-      "What Really Happened Over Cordoba?",
-      "What Really Happened in Ciudad Real's UFO Stories?",
+      "What Really Happened in Cadiz's UFO Record?",
+      "What Really Happened in Cantabria's UFO Stories?",
       "What Really Happened Over Castellon?",
+      "Why Do UFO Stories Cluster Around Ceuta?",
+      "What Really Happened in Ciudad Real's UFO Stories?",
+      "What Really Happened Over Cordoba?",
       "What Really Happened in Cuenca's UFO Cases?",
-      "What Really Happened Over Las Palmas?",
+      "What Really Happened in Gipuzkoa's UFO Stories?",
       "What Really Happened in Girona's UFO Files?",
       "What Really Happened in Granada's UFO Files?",
       "What Really Happened in Guadalajara's UFO Stories?",
       "Why Huelva's UFO Stories Still Linger",
       "What Really Happened in Huesca's UFO Stories?",
       "What Really Happened in Jaen's UFO Stories?",
-      "What Really Happened in Lleida's UFO Files?",
-      "What Really Happened in Leon's UFO Reports?",
       "What Really Happened in La Rioja's UFO Stories?",
+      "What Really Happened Over Las Palmas?",
+      "What Really Happened in Leon's UFO Reports?",
+      "What Really Happened in Lleida's UFO Files?",
       "What Really Happened in Lugo's UFO Record?",
       "What Really Happened Over Madrid?",
       "What Really Happened in Malaga's UFO Years?",
       "What Really Happened in Melilla's UFO Stories?",
       "What Really Happened Over Murcia's Skies?",
       "What Really Happened Over Navarre's Skies?",
-      "What Really Happened Over Asturias?",
       "What Really Happened in Ourense's UFO Stories?",
       "What Did Palencia Really See in 1968?",
-      "What Really Happened Over the Balearics?",
       "What Really Happened in Pontevedra's UFO Stories?",
-      "What Really Happened in Cantabria's UFO Stories?",
       "What Really Happened in Salamanca's UFO Stories?",
-      "What Did Seville's UFO Files Really Show?",
+      "What Really Happened Over Tenerife's Skies?",
       "Did Segovia Ever Have a UFO Case?",
+      "What Did Seville's UFO Files Really Show?",
       "What Really Happened in Soria's UFO Stories?",
-      "What Really Happened in Gipuzkoa's UFO Stories?",
       "What Really Happened Over Tarragona's Skies?",
       "What Really Happened in Teruel's UFO Skies?",
-      "What Really Happened Over Tenerife's Skies?",
       "What Really Happened in Toledo's UFO Files?",
       "Why Valencia Became Spain's Aviation UFO Province",
       "What Really Happened Over Valladolid?",
-      "Why Alava's UFO Legends Outgrew Their Evidence",
-      "What Really Happened in Zaragoza's UFO Files?",
-      "What Really Happened in Zamora's UFO Stories?"
+      "What Really Happened in Zamora's UFO Stories?",
+      "What Really Happened in Zaragoza's UFO Files?"
     ]
   },
   "selected": {
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "visual_profile": "compact",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
-    "palette": "verdant-field",
-    "motif": "orbital"
+    "palette": "signal-cobalt",
+    "motif": "horizon"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 58,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3700,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2320,
+      "reasons": [
+        "compact profile suits large hierarchies"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 2080,
+      "reasons": [
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 1280,
+      "reasons": []
+    }
+  ]
 }
