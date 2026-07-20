@@ -361,89 +361,89 @@ The fairest reading is that Gipuzkoa’s 1985 inland light chase was a real soci
 That verdict is not an insult to the witnesses. Night skies are difficult, bright planets can be startling, and moving vehicles are poor observation platforms. The lesson of the 1985 chase is not that people are foolish; it is that perception is fragile when a distant light is seen in darkness, through expectation, from a road that never stops changing direction.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Gipuzkoa&#x27;s Famous UFO Chase Just Jupiter?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Gipuzkoa&#x27;s Famous UFO Chase Just Jupiter?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-</h4>
-<p class="fr-book-author">By Joseph Allen Hynek</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+        </h4>
+        <p class="fr-book-author">By Philip J. Klass</p>
         
-<p class="fr-book-desc">Helps classify and assess light-in-the-sky reports from moving witnesses.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Matches the page&#x27;s focus on ordinary astronomical objects behind UFO reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-</h4>
-<p class="fr-book-author">By Philip J. Klass</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-<p class="fr-book-desc">Matches the page&#x27;s focus on ordinary astronomical objects behind UFO reports.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly supports critical thinking about how sincere witnesses can misread sky phenomena.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+        </h4>
+        <p class="fr-book-author">By Philip C. Plait</p>
         
-<p class="fr-book-desc">Directly supports critical thinking about how sincere witnesses can misread sky phenomena.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful for readers interested in how planets, perspective and expectation fool observers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-</h4>
-<p class="fr-book-author">By Philip C. Plait</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
         
-<p class="fr-book-desc">Useful for readers interested in how planets, perspective and expectation fool observers.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides contrast between stronger UFO testimony and a likely Jupiter misidentification.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
