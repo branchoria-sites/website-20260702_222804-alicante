@@ -189,6 +189,7 @@ image: /assets/images/Ciudad_Real_1bcbd0-overview-social.jpg
 site_image_description: A night view of A Coruna's Atlantic coast with a naval harbour, dark headlands and a small unexplained light above the sea.
 ---
 
+<h1 class="home-structure-intro-title">UFOs and UAP by Spanish Province</h1>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="spain-provinces" data-map-item-type="province" data-map-label="UFO and UAP Spanish provinces map" data-map-fallback-summary="Open this Spanish province file from the map." data-map-src="{{ 'assets/maps/spain-provinces.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/spain-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="ES-SG" data-map-preview-preload="8">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
