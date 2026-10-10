@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:30'
 level: 2
 basename: Navarre_d04319_bardenas_range_hotsp_d28cbf
 parent_basename: Navarre_d04319

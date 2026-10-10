@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:50:49'
 level: 2
 basename: Gipuzkoa_c8b477_1985_jupiter_chase_251ddb
 parent_basename: Gipuzkoa_c8b477

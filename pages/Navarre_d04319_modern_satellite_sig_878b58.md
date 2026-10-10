@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 13:21:19'
 level: 2
 basename: Navarre_d04319_modern_satellite_sig_878b58
 parent_basename: Navarre_d04319

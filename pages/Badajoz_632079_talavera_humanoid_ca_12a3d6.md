@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:30'
 level: 2
 basename: Badajoz_632079_talavera_humanoid_ca_12a3d6
 parent_basename: Badajoz_632079
