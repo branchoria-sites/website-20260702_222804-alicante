@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:30'
 level: 2
 basename: Cordoba_c65d18_pozoblanco_pink_ligh_63ee4c
 parent_basename: Cordoba_c65d18

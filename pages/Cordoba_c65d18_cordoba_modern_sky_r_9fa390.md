@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 13:21:19'
 level: 2
 basename: Cordoba_c65d18_cordoba_modern_sky_r_9fa390
 parent_basename: Cordoba_c65d18
