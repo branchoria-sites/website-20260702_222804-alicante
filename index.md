@@ -196,7 +196,7 @@ site_image_description: A night view of A Coruna's Atlantic coast with a naval h
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Segovia_11f113-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Segovia_11f113-overview-social.jpg' | relative_url }}" alt="{{ site.title | escape }} overview image" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">SG</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="spain" data-uap-world-map-region-focus="spain" aria-label="Focus map on Spain">Spain</button>
