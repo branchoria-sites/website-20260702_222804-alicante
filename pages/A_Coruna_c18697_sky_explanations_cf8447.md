@@ -756,7 +756,6 @@ The result is a more grounded UFO history for A Coruña. Its value lies not in p
 2.<a id="endnote-2"></a>
    Source: elidealgallego.com  
    Title: ovnis coruna alerta ciudad unas misteriosas luces cielo 5102853  
-   Link:https://www.elidealgallego.com/articulo/[a-coruna  
 
 3.<a id="endnote-3"></a>
    Source: cneos.jpl.nasa.gov  
